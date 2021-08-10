@@ -21,8 +21,8 @@ quxiao 1
 shi 2 1
 shu 1
 xian 1
-xiancheng 1
+xiancheng 2
 xiao 1
 xie 1
 xiecheng 4
-zhu 1
+zhu 2
