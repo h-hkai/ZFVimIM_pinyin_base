@@ -13,13 +13,16 @@ ha 3
 han 1
 hanshu 1
 huang 1
-jian 2
+jian 2 1
 kai 1
 liang 1 1
+qu 1
+quxiao 1
 shi 2 1
 shu 1
 xian 1
 xiancheng 1
+xiao 1
 xie 1
 xiecheng 4
 zhu 1
