@@ -1,5 +1,6 @@
 ben 1
 bian 1
+bu 1
 ce 2
 cha 2
 chajianceshi 1
@@ -8,6 +9,8 @@ da 1
 dabendan 1
 dan 1
 de 1
+deng 1
+gai 1
 ge 1
 ha 3
 han 1
@@ -21,8 +24,9 @@ quxiao 1
 shi 2 1
 shu 1
 xian 1
-xiancheng 2
+xiancheng 4
 xiao 1
 xie 1
 xiecheng 4
-zhu 2
+yu 1
+zhu 3
