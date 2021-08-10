@@ -15,7 +15,7 @@ hanshu 1
 huang 1
 jian 2
 kai 1
-liang 1
+liang 1 1
 shi 2 1
 shu 1
 xian 1
