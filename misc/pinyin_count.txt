@@ -14,6 +14,7 @@ dan 1
 de 6
 deng 1
 di 1
+dian 1
 du 1
 fang 1
 fu 1
@@ -31,6 +32,8 @@ huang 1
 ji 1
 jian 2 1
 jiang 2
+jie 1
+jiedian 1
 jiu 1
 jiude 1
 kai 1
