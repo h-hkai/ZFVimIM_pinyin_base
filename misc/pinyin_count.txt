@@ -18,7 +18,7 @@ dabendan 1
 dan 1
 dang 1
 dao 1
-de 15
+de 17
 deng 1
 di 1
 dian 1
@@ -41,7 +41,7 @@ ji 1
 jian 2 1 1
 jiang 2
 jie 1 1
-jiedian 14
+jiedian 15
 jiezhu 1
 jiu 1
 jiude 1
@@ -50,7 +50,7 @@ ke 1
 le 1
 liang 1 1
 qi 1
-qian 1
+qian 2
 qishi 1
 qu 1
 quxiao 1
@@ -75,7 +75,7 @@ xiecheng 4
 xin 5
 xing 2
 yi 2 1 1 1
-yige 1
+yige 2
 yiguo 1
 yong 1
 yongyu 2
