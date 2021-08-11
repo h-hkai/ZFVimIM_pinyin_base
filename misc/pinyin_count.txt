@@ -2,8 +2,9 @@ bei 3
 ben 2 1
 benjiedian 1
 bian 1
-bu 1 1
+bu 2 1
 buchang 1
+bushi 1
 ce 2
 ceng 1
 cha 4
@@ -35,14 +36,14 @@ guo 1
 ha 3
 han 1
 hanshu 1
-hou 1
+hou 2
 houtui 1
 huang 1
 ji 1
 jian 2 1 1
 jiang 2
 jie 1 1
-jiedian 17
+jiedian 18
 jiezhu 1
 jiu 1
 jiude 1
@@ -58,7 +59,7 @@ quxiao 1
 rou 1
 rouxing 2
 ru 1 1
-shi 2 1 1 1 1
+shi 2 2 1 1 1
 shifang 1
 shu 4 1
 shuxing 2
@@ -77,7 +78,7 @@ xiecheng 4
 xin 5
 xing 2
 yi 2 1 1 1
-yige 3
+yige 4
 yiguo 1
 yong 1
 yongyu 2
@@ -97,3 +98,4 @@ zhong 1
 zhu 3 1 1
 zhuyi 1
 zu 2
+zui 1
