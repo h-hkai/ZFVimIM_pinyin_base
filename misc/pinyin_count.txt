@@ -9,7 +9,7 @@ ceng 1
 cha 4
 chajianceshi 1
 chang 3
-charu 1
+charu 2
 cheng 2 1
 chong 1
 cong 1
@@ -41,7 +41,7 @@ ji 1
 jian 2 1 1
 jiang 2
 jie 1
-jiedian 11
+jiedian 12
 jiu 1
 jiude 1
 kai 1
