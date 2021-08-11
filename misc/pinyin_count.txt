@@ -1,4 +1,4 @@
-bei 2
+bei 3
 ben 2 1
 benjiedian 1
 bian 1
@@ -9,7 +9,7 @@ ceng 1
 cha 4
 chajianceshi 1
 chang 3
-charu 2
+charu 3
 cheng 2 1
 chong 1
 cong 1
@@ -41,7 +41,7 @@ ji 1
 jian 2 1 1
 jiang 2
 jie 1
-jiedian 12
+jiedian 13
 jiu 1
 jiude 1
 kai 1
@@ -64,7 +64,7 @@ suo 2
 tou 1
 touwei 1
 tui 1
-wei 3 1
+wei 4 1
 xian 1
 xiancheng 4
 xiang 1
