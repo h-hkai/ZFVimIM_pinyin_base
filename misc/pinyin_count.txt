@@ -1,5 +1,5 @@
 bei 1
-ben 2
+ben 2 1
 benjiedian 1
 bian 1
 bu 1
