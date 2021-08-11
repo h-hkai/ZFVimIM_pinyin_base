@@ -16,7 +16,7 @@ deng 1
 du 1
 fang 1
 fu 1
-fuzhi 1
+fuzhi 2
 gai 1
 ge 1
 geng 1
@@ -42,9 +42,10 @@ rou 1
 rouxing 1
 shi 2 1 1 1
 shifang 1
-shu 2
+shu 2 1
+shuxing 1
 suo 1
-wei 1
+wei 2
 xian 1
 xiancheng 4
 xiang 1
@@ -52,7 +53,7 @@ xiao 1
 xie 1
 xiecheng 4
 xin 2
-xing 1
+xing 2
 yi 1 1 1
 yiguo 1
 yu 1
