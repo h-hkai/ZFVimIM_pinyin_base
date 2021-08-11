@@ -13,7 +13,7 @@ chong 1
 da 1
 dabendan 1
 dan 1
-de 13
+de 14
 deng 1
 di 1
 dian 1
@@ -23,7 +23,7 @@ fu 1
 fuzhi 3
 gai 1
 ge 2
-geng 3
+geng 4
 guo 1
 ha 3
 han 1
@@ -35,7 +35,7 @@ ji 1
 jian 2 1 1
 jiang 2
 jie 1
-jiedian 8
+jiedian 9
 jiu 1
 jiude 1
 kai 1
@@ -64,7 +64,7 @@ xiang 1
 xiao 1
 xie 1
 xiecheng 4
-xin 4
+xin 5
 xing 2
 yi 2 1 1
 yiguo 1
