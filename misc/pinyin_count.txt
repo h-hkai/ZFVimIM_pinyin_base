@@ -22,7 +22,7 @@ hanshu 1
 huang 1
 ji 1
 jian 2 1
-jiang 1
+jiang 2
 jiu 1
 jiude 1
 kai 1
@@ -51,7 +51,7 @@ yuan 1
 zhen 1
 zhi 2
 zhixiang 1
-zhizhen 2
+zhizhen 3
 zhu 3 1
 zhuyi 1
 zu 1
