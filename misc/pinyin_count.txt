@@ -4,7 +4,7 @@ bu 1
 ce 2
 cha 2
 chajianceshi 1
-cheng 2
+cheng 2 1
 da 1
 dabendan 1
 dan 1
