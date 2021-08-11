@@ -11,7 +11,7 @@ chong 1
 da 1
 dabendan 1
 dan 1
-de 5
+de 6
 deng 1
 du 1
 fang 1
@@ -32,11 +32,13 @@ kai 1
 ke 1
 le 1
 liang 1 1
+qi 1
+qishi 1
 qu 1
 quxiao 1
 rou 1
 rouxing 1
-shi 2 1 1
+shi 2 1 1 1
 shifang 1
 shu 2
 suo 1
