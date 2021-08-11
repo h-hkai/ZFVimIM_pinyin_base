@@ -28,7 +28,7 @@ fang 1
 fu 1
 fuzhi 3
 gai 1
-ge 2
+ge 3
 geng 4
 guo 1
 ha 3
@@ -41,7 +41,7 @@ ji 1
 jian 2 1 1
 jiang 2
 jie 1
-jiedian 13
+jiedian 14
 jiu 1
 jiude 1
 kai 1
@@ -73,7 +73,8 @@ xie 1
 xiecheng 4
 xin 5
 xing 2
-yi 2 1 1
+yi 2 1 1 1
+yige 1
 yiguo 1
 yong 1
 yongyu 2
