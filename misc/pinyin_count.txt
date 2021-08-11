@@ -1,18 +1,19 @@
-bei 1
+bei 2
 ben 2 1
 benjiedian 1
 bian 1
 bu 1
 ce 2
-cha 3
+cha 4
 chajianceshi 1
 chang 2
+charu 1
 cheng 2 1
 chong 1
 da 1
 dabendan 1
 dan 1
-de 11
+de 12
 deng 1
 di 1
 dian 1
@@ -22,7 +23,7 @@ fu 1
 fuzhi 3
 gai 1
 ge 2
-geng 1
+geng 2
 guo 1
 ha 3
 han 1
@@ -34,7 +35,7 @@ ji 1
 jian 2 1 1
 jiang 2
 jie 1
-jiedian 5
+jiedian 7
 jiu 1
 jiude 1
 kai 1
@@ -47,7 +48,7 @@ qu 1
 quxiao 1
 rou 1
 rouxing 2
-ru 1
+ru 1 1
 shi 2 1 1 1 1
 shifang 1
 shu 4 1
@@ -63,7 +64,7 @@ xiang 1
 xiao 1
 xie 1
 xiecheng 4
-xin 2
+xin 3
 xing 2
 yi 1 1 1
 yiguo 1
