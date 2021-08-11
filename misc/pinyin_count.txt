@@ -18,16 +18,17 @@ dabendan 1
 dan 1
 dang 1
 dao 1
-de 17
+de 19
 deng 1
 di 1
 dian 1
-du 3
+du 5
 e 1
 fang 1
 fu 1
 fuzhi 3
 gai 1
+gao 2
 ge 3
 geng 4
 guo 1
@@ -41,7 +42,7 @@ ji 1
 jian 2 1 1
 jiang 2
 jie 1 1
-jiedian 15
+jiedian 17
 jiezhu 1
 jiu 1
 jiude 1
@@ -50,7 +51,7 @@ ke 1
 le 1
 liang 1 1
 qi 1
-qian 2
+qian 3
 qishi 1
 qu 1
 quxiao 1
@@ -69,19 +70,20 @@ wei 4 1
 xian 1
 xiancheng 4
 xiang 1
-xiao 1
+xiao 1 1
+xiaoyu 1
 xie 1
 xiecheng 4
 xin 5
 xing 2
 yi 2 1 1 1
-yige 2
+yige 3
 yiguo 1
 yong 1
 yongyu 2
 you 1
 youyu 1
-yu 2 2
+yu 3 2
 yuan 1
 yue 1
 ze 1
