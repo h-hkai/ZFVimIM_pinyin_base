@@ -8,7 +8,7 @@ cheng 2 1
 da 1
 dabendan 1
 dan 1
-de 2
+de 3
 deng 1
 gai 1
 ge 1
@@ -30,12 +30,17 @@ shu 2
 suo 1
 xian 1
 xiancheng 4
+xiang 1
 xiao 1
 xie 1
 xiecheng 4
 xing 1
 yi 1 1
 yu 1
+zhen 1
+zhi 2
+zhixiang 1
+zhizhen 1
 zhu 3 1
 zhuyi 1
 zu 1
