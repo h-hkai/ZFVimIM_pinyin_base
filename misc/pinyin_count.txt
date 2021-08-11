@@ -42,6 +42,7 @@ shi 2 1 1 1
 shifang 1
 shu 2
 suo 1
+wei 1
 xian 1
 xiancheng 4
 xiang 1
