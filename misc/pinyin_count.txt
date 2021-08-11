@@ -43,6 +43,7 @@ xin 2
 xing 1
 yi 1 1
 yu 1
+yuan 1
 zhen 1
 zhi 2
 zhixiang 1
