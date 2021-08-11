@@ -21,6 +21,7 @@ hanshu 1
 huang 1
 ji 1
 jian 2 1
+jiang 1
 kai 1
 ke 1
 le 1
