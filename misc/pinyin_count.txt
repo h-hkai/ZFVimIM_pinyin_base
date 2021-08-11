@@ -70,7 +70,9 @@ yi 1 1 1
 yiguo 1
 yong 1
 yongyu 2
-yu 2 1
+you 1
+youyu 1
+yu 2 2
 yuan 1
 yue 1
 zhen 1
