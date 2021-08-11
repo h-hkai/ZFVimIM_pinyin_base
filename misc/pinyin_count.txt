@@ -10,8 +10,9 @@ chong 1
 da 1
 dabendan 1
 dan 1
-de 3
+de 4
 deng 1
+fang 1
 gai 1
 ge 1
 geng 1
@@ -22,6 +23,8 @@ huang 1
 ji 1
 jian 2 1
 jiang 1
+jiu 1
+jiude 1
 kai 1
 ke 1
 le 1
@@ -30,7 +33,8 @@ qu 1
 quxiao 1
 rou 1
 rouxing 1
-shi 2 1
+shi 2 1 1
+shifang 1
 shu 2
 suo 1
 xian 1
@@ -47,7 +51,7 @@ yuan 1
 zhen 1
 zhi 2
 zhixiang 1
-zhizhen 1
+zhizhen 2
 zhu 3 1
 zhuyi 1
 zu 1
