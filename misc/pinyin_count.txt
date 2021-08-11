@@ -2,24 +2,28 @@ bei 2
 ben 2 1
 benjiedian 1
 bian 1
-bu 1
+bu 1 1
+buchang 1
 ce 2
 ceng 1
 cha 4
 chajianceshi 1
-chang 2
+chang 3
 charu 1
 cheng 2 1
 chong 1
+cong 1
 da 1
 dabendan 1
 dan 1
 dang 1
-de 14
+dao 1
+de 15
 deng 1
 di 1
 dian 1
 du 3
+e 1
 fang 1
 fu 1
 fuzhi 3
@@ -37,7 +41,7 @@ ji 1
 jian 2 1 1
 jiang 2
 jie 1
-jiedian 9
+jiedian 11
 jiu 1
 jiude 1
 kai 1
