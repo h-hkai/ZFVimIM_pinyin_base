@@ -1,3 +1,4 @@
+bei 1
 ben 1
 bian 1
 bu 1
@@ -12,6 +13,7 @@ de 3
 deng 1
 gai 1
 ge 1
+geng 1
 ha 3
 han 1
 hanshu 1
@@ -20,6 +22,7 @@ ji 1
 jian 2 1
 kai 1
 ke 1
+le 1
 liang 1 1
 qu 1
 quxiao 1
@@ -34,6 +37,7 @@ xiang 1
 xiao 1
 xie 1
 xiecheng 4
+xin 1
 xing 1
 yi 1 1
 yu 1
