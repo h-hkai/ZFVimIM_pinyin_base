@@ -56,7 +56,9 @@ xin 2
 xing 2
 yi 1 1 1
 yiguo 1
-yu 1
+yong 1
+yongyu 1
+yu 1 1
 yuan 1
 zhen 1
 zhi 2 1
