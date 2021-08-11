@@ -40,8 +40,9 @@ huang 1
 ji 1
 jian 2 1 1
 jiang 2
-jie 1
+jie 1 1
 jiedian 14
+jiezhu 1
 jiu 1
 jiude 1
 kai 1
@@ -91,6 +92,6 @@ zhixiang 2
 zhixiangde 1
 zhizhen 4
 zhong 1
-zhu 3 1
+zhu 3 1 1
 zhuyi 1
 zu 2
