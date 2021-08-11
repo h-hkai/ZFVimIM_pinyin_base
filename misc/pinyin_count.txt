@@ -5,17 +5,20 @@ bu 1
 ce 2
 cha 2
 chajianceshi 1
+chang 1
 cheng 2 1
 chong 1
 da 1
 dabendan 1
 dan 1
-de 4
+de 5
 deng 1
+du 1
 fang 1
 gai 1
 ge 1
 geng 1
+guo 1
 ha 3
 han 1
 hanshu 1
@@ -45,7 +48,8 @@ xie 1
 xiecheng 4
 xin 2
 xing 1
-yi 1 1
+yi 1 1 1
+yiguo 1
 yu 1
 yuan 1
 zhen 1
