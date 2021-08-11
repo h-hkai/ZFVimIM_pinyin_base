@@ -15,6 +15,8 @@ de 6
 deng 1
 du 1
 fang 1
+fu 1
+fuzhi 1
 gai 1
 ge 1
 geng 1
@@ -56,7 +58,7 @@ yiguo 1
 yu 1
 yuan 1
 zhen 1
-zhi 2
+zhi 2 1
 zhixiang 1
 zhizhen 3
 zhu 3 1
