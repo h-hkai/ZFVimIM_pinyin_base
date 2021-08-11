@@ -11,7 +11,7 @@ chong 1
 da 1
 dabendan 1
 dan 1
-de 6
+de 7
 deng 1
 di 1
 dian 1
@@ -33,7 +33,7 @@ ji 1
 jian 2 1
 jiang 2
 jie 1
-jiedian 1
+jiedian 2
 jiu 1
 jiude 1
 kai 1
@@ -70,7 +70,8 @@ yuan 1
 yue 1
 zhen 1
 zhi 2 1
-zhixiang 1
+zhixiang 2
+zhixiangde 1
 zhizhen 4
 zhu 3 1
 zhuyi 1
