@@ -23,10 +23,12 @@ qu 1
 quxiao 1
 shi 2 1
 shu 1
+suo 1
 xian 1
 xiancheng 4
 xiao 1
 xie 1
 xiecheng 4
+yi 1
 yu 1
 zhu 3
