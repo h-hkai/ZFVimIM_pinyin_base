@@ -54,6 +54,7 @@ jiude 1
 ju 1
 kai 1
 ke 1
+lai 1
 le 1
 liang 1 1
 qi 1
@@ -64,9 +65,10 @@ quxiao 1
 rou 1
 rouxing 2
 ru 1 1
-shi 3 2 1 1 1 1
+shi 3 2 1 1 1 1 1
 shifang 1
-shixian 1
+shixian 2
+shiyong 1
 shu 4 1
 shuxing 2
 suo 2
@@ -87,7 +89,7 @@ yi 2 1 1 1 1
 yibu 1
 yige 4
 yiguo 1
-yong 1
+yong 2
 yongyu 2
 you 1
 youyu 1
