@@ -62,8 +62,9 @@ quxiao 1
 rou 1
 rouxing 2
 ru 1 1
-shi 3 2 1 1 1
+shi 3 2 1 1 1 1
 shifang 1
+shixian 1
 shu 4 1
 shuxing 2
 suo 2
@@ -71,7 +72,7 @@ tou 1
 touwei 1
 tui 1
 wei 4 1
-xian 1
+xian 1 1
 xiancheng 4
 xiang 1
 xiao 1 1
