@@ -56,7 +56,7 @@ huang 1
 huo 1
 ji 4 1
 jian 2 1 1
-jiang 2
+jiang 3
 jie 2 1 1
 jiedian 20
 jiema 2
