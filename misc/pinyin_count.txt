@@ -29,7 +29,7 @@ dabendan 1
 dan 1
 dang 4
 dao 1
-de 37 1
+de 38 1
 deng 1
 di 1
 dian 1
@@ -45,7 +45,7 @@ fu 1
 fuzhi 3
 gai 1
 gao 3
-ge 6
+ge 7
 gen 1
 geng 6
 genju 2
@@ -103,7 +103,7 @@ shifang 1
 shihou 1
 shixian 2
 shiyong 1
-shou 1
+shou 2
 shoubu 1
 shu 10 1
 shuxing 2
@@ -147,7 +147,7 @@ zheng 1
 zhengshu 1
 zhi 2 1 1 1 1
 zhijian 1
-zhixiang 8
+zhixiang 9
 zhixiangde 1
 zhixiangziduan 1
 zhizhen 4
