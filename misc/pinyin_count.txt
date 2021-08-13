@@ -23,7 +23,7 @@ ci 1
 cishi 2
 cong 1
 cun 1
-da 1
+da 2
 dabendan 1
 dan 1
 dang 4
@@ -116,7 +116,7 @@ xi 2
 xian 1 1
 xiancheng 4
 xiang 1
-xiao 2 1
+xiao 3 1
 xiaoduanfa 1
 xiaoyu 1
 xie 1
