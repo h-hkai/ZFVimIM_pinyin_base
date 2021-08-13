@@ -3,7 +3,8 @@ ben 2 1
 benjiedian 1
 bi 2
 bian 1
-biao 2
+biao 2 1
+biaoshi 1
 bu 2 2 1
 buchang 1
 bushi 1
@@ -85,7 +86,7 @@ rong 2
 rou 1
 rouxing 2
 ru 2 1
-shi 3 2 2 2 1 1 1
+shi 3 2 2 2 1 1 1 1
 shide 1
 shifang 1
 shixian 2
