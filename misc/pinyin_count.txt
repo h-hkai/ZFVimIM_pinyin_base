@@ -49,7 +49,7 @@ gai 1
 gao 3
 ge 8
 gen 1
-geng 7
+geng 8
 genju 2
 gong 1
 guo 1
@@ -130,7 +130,7 @@ xiaoduanfa 1
 xiaoyu 2
 xie 1
 xiecheng 5
-xin 9
+xin 10
 xing 2
 yi 2 2 2 1 1
 yibu 1
