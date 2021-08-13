@@ -36,7 +36,7 @@ dian 1
 diao 1
 diaodu 1
 du 17
-duan 13 1
+duan 15 1
 e 1
 er 1
 fa 1
@@ -47,7 +47,7 @@ gai 1
 gao 3
 ge 6
 gen 1
-geng 5
+geng 6
 genju 2
 gong 1
 guo 1
@@ -126,7 +126,7 @@ xiaoduanfa 1
 xiaoyu 2
 xie 1
 xiecheng 5
-xin 7
+xin 8
 xing 2
 yi 2 2 2 1 1
 yibu 1
@@ -154,7 +154,7 @@ zhizhen 4
 zhong 2 1
 zhu 3 1 1
 zhuyi 1
-zi 13
+zi 15
 zong 1
 zu 3
 zui 5
