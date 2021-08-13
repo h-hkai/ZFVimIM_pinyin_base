@@ -19,7 +19,7 @@ dabendan 1
 dan 1
 dang 1
 dao 1
-de 22
+de 22 1
 deng 1
 di 1
 dian 1
@@ -52,7 +52,7 @@ jiedian 20
 jiezhu 1
 jiu 1
 jiude 1
-ju 1
+ju 2
 kai 1
 ke 1
 lai 1
@@ -66,11 +66,12 @@ quxiao 1
 rou 1
 rouxing 2
 ru 1 1
-shi 3 2 1 1 1 1 1
+shi 3 2 2 1 1 1 1
+shide 1
 shifang 1
 shixian 2
 shiyong 1
-shu 4 1
+shu 5 1
 shuxing 2
 suo 2
 tou 1
