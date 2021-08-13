@@ -43,8 +43,8 @@ e 1
 er 1
 fa 1
 fang 1
-fu 1
-fuzhi 4
+fu 1 1
+fuzhi 4 1
 gai 1
 gao 3
 ge 8
@@ -149,7 +149,7 @@ zhan 1
 zhen 1
 zheng 1
 zhengshu 1
-zhi 2 1 1 1 1
+zhi 2 1 1 1 1 1
 zhijian 1
 zhixiang 10
 zhixiangde 1
