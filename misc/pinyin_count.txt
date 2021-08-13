@@ -28,7 +28,7 @@ dian 1
 diao 1
 diaodu 1
 du 10
-duan 8 1
+duan 9 1
 e 1
 fa 1
 fang 1
@@ -123,6 +123,6 @@ zhizhen 4
 zhong 2
 zhu 3 1 1
 zhuyi 1
-zi 8
+zi 9
 zu 2
 zui 3
