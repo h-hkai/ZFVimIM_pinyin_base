@@ -107,7 +107,7 @@ ze 1
 zhen 1
 zhi 2 1 1
 zhijian 1
-zhixiang 4
+zhixiang 5
 zhixiangde 1
 zhixiangziduan 1
 zhizhen 4
