@@ -62,7 +62,7 @@ hengwei 1
 hou 4 1
 houtui 1
 huang 1
-huo 1 1
+huo 2 1
 ji 4 1
 jian 2 1 1 1
 jiang 3
