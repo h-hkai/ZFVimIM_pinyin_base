@@ -45,7 +45,7 @@ fu 1
 fuzhi 3
 gai 1
 gao 3
-ge 5
+ge 6
 gen 1
 geng 5
 genju 2
@@ -141,6 +141,7 @@ yuan 2
 yuansuqian 1
 yue 1
 ze 2
+zhan 1
 zhen 1
 zheng 1
 zhengshu 1
