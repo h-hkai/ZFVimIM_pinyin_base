@@ -19,7 +19,7 @@ chang 16
 charu 8
 cheng 2 2
 chenggong 1
-chong 1
+chong 2
 ci 1
 cishi 2
 cong 1
@@ -130,7 +130,7 @@ xiaoduanfa 1
 xiaoyu 2
 xie 1
 xiecheng 5
-xin 10
+xin 11
 xing 2
 yi 2 2 2 1 1
 yibu 1
