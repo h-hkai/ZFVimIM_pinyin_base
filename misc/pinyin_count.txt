@@ -14,6 +14,7 @@ charu 3
 cheng 2 1
 chong 1
 cong 1
+cun 1
 da 1
 dabendan 1
 dan 1
@@ -26,8 +27,9 @@ dian 1
 diao 1
 diaodu 1
 du 7
-duan 2
+duan 2 1
 e 1
+fa 1
 fang 1
 fu 1
 fuzhi 3
@@ -61,7 +63,7 @@ liang 1 1
 qi 1
 qian 3
 qishi 1
-qu 1
+qu 2
 quxiao 1
 rou 1
 rouxing 2
@@ -74,6 +76,8 @@ shiyong 1
 shu 5 1
 shuxing 2
 suo 2
+tong 1
+tongyi 1
 tou 1
 touwei 1
 tui 1
@@ -81,13 +85,14 @@ wei 4 1
 xian 1 1
 xiancheng 4
 xiang 1
-xiao 1 1
+xiao 2 1
+xiaoduanfa 1
 xiaoyu 1
 xie 1
 xiecheng 5
 xin 5
 xing 2
-yi 2 1 1 1 1
+yi 2 2 1 1 1
 yibu 1
 yige 4
 yiguo 1
