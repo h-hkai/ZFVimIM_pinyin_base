@@ -3,7 +3,7 @@ ben 2 1
 benjiedian 1
 bian 1
 biao 1
-bu 2 2
+bu 2 2 1
 buchang 1
 bushi 1
 ce 2
@@ -19,9 +19,9 @@ cun 1
 da 1
 dabendan 1
 dan 1
-dang 2
+dang 3
 dao 1
-de 22 1
+de 23 1
 deng 1
 di 1
 dian 1
@@ -64,7 +64,7 @@ le 1
 liang 1 1
 lie 1
 qi 1
-qian 4
+qian 5
 qishi 1
 qu 2
 quxiao 1
@@ -76,6 +76,8 @@ shide 1
 shifang 1
 shixian 2
 shiyong 1
+shou 1
+shoubu 1
 shu 5 1
 shuxing 2
 suo 2
