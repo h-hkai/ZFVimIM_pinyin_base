@@ -59,10 +59,11 @@ huo 1
 ji 4 1
 jian 2 1 1
 jiang 3
-jie 2 2 1
+jie 3 2 1
 jiedian 20
 jiema 2
 jiewei 1
+jiexi 1
 jiexiwei 2
 jiezhu 1
 jiu 1
@@ -109,7 +110,7 @@ touwei 1
 tui 1
 wei 6 2 1
 weizhi 3
-xi 1
+xi 2
 xian 1 1
 xiancheng 4
 xiang 1
