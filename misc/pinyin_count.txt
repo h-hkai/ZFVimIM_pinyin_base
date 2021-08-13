@@ -1,6 +1,7 @@
 bei 3
 ben 2 1
 benjiedian 1
+bi 1
 bian 1
 biao 1
 bu 2 2 1
@@ -24,7 +25,7 @@ dabendan 1
 dan 1
 dang 3
 dao 1
-de 28 1
+de 29 1
 deng 1
 di 1
 dian 1
@@ -33,16 +34,17 @@ diaodu 1
 du 11
 duan 11 1
 e 1
+er 1
 fa 1
 fang 1
 fu 1
 fuzhi 3
 gai 1
 gao 3
-ge 3
+ge 4
 gen 1
 geng 4
-genju 1
+genju 2
 guo 1
 ha 3
 han 1
@@ -50,7 +52,7 @@ hanshu 1
 hou 3
 houtui 1
 huang 1
-ji 2 1
+ji 3 1
 jian 2 1 1
 jiang 2
 jie 1 1 1
@@ -62,7 +64,7 @@ jiude 1
 jiwei 1
 ju 2
 kai 1
-ke 1
+ke 2
 lai 1
 le 1
 liang 1 1
@@ -74,7 +76,7 @@ nei 2
 pian 1
 pianyi 1
 qi 1
-qian 5
+qian 6
 qishi 1
 qu 2
 quxiao 1
@@ -89,9 +91,10 @@ shixian 2
 shiyong 1
 shou 1
 shoubu 1
-shu 6 1
+shu 7 1
 shuxing 2
 suo 2
+te 1
 tong 1
 tongyi 1
 tou 1
@@ -122,7 +125,7 @@ yuan 1
 yue 1
 ze 1
 zhen 1
-zhi 2 1 1 1
+zhi 2 1 1 1 1
 zhijian 1
 zhixiang 7
 zhixiangde 1
@@ -132,5 +135,5 @@ zhong 2
 zhu 3 1 1
 zhuyi 1
 zi 11
-zu 2
+zu 3
 zui 3
