@@ -31,10 +31,11 @@ dang 4
 dao 1
 de 39 1
 deng 1
-di 1
+di 1 1
 dian 1
 diao 1
 diaodu 1
+diyige 1
 du 18
 duan 15 1
 e 1
@@ -65,7 +66,7 @@ jian 2 1 1 1
 jiang 3
 jie 3 2 1
 jiedian 20
-jiema 2
+jiema 3
 jiewei 1
 jiexi 1
 jiexiwei 2
@@ -130,7 +131,7 @@ xin 8
 xing 2
 yi 2 2 2 1 1
 yibu 1
-yige 6
+yige 7
 yiguo 1
 yong 2
 yongyu 2
