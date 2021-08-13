@@ -44,7 +44,7 @@ er 1
 fa 1
 fang 1
 fu 1
-fuzhi 3
+fuzhi 4
 gai 1
 gao 3
 ge 8
@@ -75,7 +75,7 @@ jiezhu 1
 jiu 1
 jiude 1
 jiwei 2
-ju 3
+ju 4
 kai 1
 ke 2
 lai 1
@@ -108,7 +108,7 @@ shixian 2
 shiyong 1
 shou 2
 shoubu 1
-shu 11 1
+shu 12 1
 shuxing 2
 su 1
 suo 2
