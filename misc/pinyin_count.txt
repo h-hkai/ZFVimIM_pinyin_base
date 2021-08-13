@@ -28,7 +28,7 @@ dian 1
 diao 1
 diaodu 1
 du 7
-duan 3 1
+duan 4 1
 e 1
 fa 1
 fang 1
@@ -47,7 +47,7 @@ hanshu 1
 hou 3
 houtui 1
 huang 1
-ji 1
+ji 2
 jian 2 1 1
 jiang 2
 jie 1 1
@@ -55,6 +55,7 @@ jiedian 20
 jiezhu 1
 jiu 1
 jiude 1
+jiwei 1
 ju 2
 kai 1
 ke 1
@@ -83,7 +84,7 @@ tongyi 1
 tou 1
 touwei 1
 tui 1
-wei 4 1
+wei 5 1
 xian 1 1
 xiancheng 4
 xiang 1
@@ -116,6 +117,6 @@ zhizhen 4
 zhong 2
 zhu 3 1 1
 zhuyi 1
-zi 3
+zi 4
 zu 2
 zui 3
