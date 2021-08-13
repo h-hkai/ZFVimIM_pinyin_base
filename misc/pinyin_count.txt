@@ -3,7 +3,7 @@ ben 2 1
 benjiedian 1
 bi 2
 bian 1
-biao 1
+biao 2
 bu 2 2 1
 buchang 1
 bushi 1
@@ -68,7 +68,7 @@ ke 2
 lai 1
 le 1
 liang 1 1
-lie 1
+lie 2
 luo 1
 luoji 1
 ma 1
