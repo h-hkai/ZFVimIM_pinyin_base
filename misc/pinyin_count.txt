@@ -50,8 +50,9 @@ huang 1
 ji 2
 jian 2 1 1
 jiang 2
-jie 1 1
+jie 1 1 1
 jiedian 20
+jiema 1
 jiezhu 1
 jiu 1
 jiude 1
@@ -63,6 +64,7 @@ lai 1
 le 1
 liang 1 1
 lie 1
+ma 1
 nei 2
 qi 1
 qian 5
