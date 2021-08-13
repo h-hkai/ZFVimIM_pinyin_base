@@ -14,7 +14,7 @@ ce 2
 ceng 1
 cha 4
 chajianceshi 1
-chang 13
+chang 14
 charu 8
 cheng 2 2
 chenggong 1
@@ -35,7 +35,7 @@ di 1
 dian 1
 diao 1
 diaodu 1
-du 17
+du 18
 duan 15 1
 e 1
 er 1
@@ -155,7 +155,7 @@ zhong 2 1
 zhu 3 1 1
 zhuyi 1
 zi 15
-zong 1
+zong 2
 zu 3
 zui 5
 zuizhong 1
