@@ -52,7 +52,7 @@ hanshu 1
 hou 3
 houtui 1
 huang 1
-ji 3 1
+ji 4 1
 jian 2 1 1
 jiang 2
 jie 1 1 1
@@ -91,7 +91,7 @@ shixian 2
 shiyong 1
 shou 1
 shoubu 1
-shu 7 1
+shu 8 1
 shuxing 2
 suo 2
 te 2
