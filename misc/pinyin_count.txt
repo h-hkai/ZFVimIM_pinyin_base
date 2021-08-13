@@ -47,7 +47,7 @@ fen 1
 fu 1 1
 fuzhi 4 1
 gai 1
-gao 3
+gao 3 1
 ge 8
 gen 1
 geng 8
@@ -73,6 +73,8 @@ jiewei 1
 jiexi 1
 jiexiwei 2
 jiezhu 1
+jing 1
+jinggao 1
 jiu 1
 jiude 1
 jiwei 2
@@ -101,7 +103,7 @@ rong 2
 rou 1
 rouxing 2
 ru 2 1
-shi 5 4 2 2 1 1 1 1 1 1 1
+shi 6 4 2 2 1 1 1 1 1 1 1
 shibai 1
 shide 1
 shifang 1
@@ -152,8 +154,9 @@ zhan 1
 zhen 1
 zheng 1
 zhengshu 1
-zhi 2 1 1 1 1 1
+zhi 2 2 1 1 1 1
 zhijian 1
+zhishi 1
 zhixiang 10
 zhixiangde 1
 zhixiangziduan 1
