@@ -14,6 +14,8 @@ chang 6
 charu 3
 cheng 2 1
 chong 1
+ci 1
+cishi 1
 cong 1
 cun 1
 da 1
@@ -75,7 +77,7 @@ rong 2
 rou 1
 rouxing 2
 ru 1 1
-shi 3 2 2 1 1 1 1
+shi 3 2 2 2 1 1 1
 shide 1
 shifang 1
 shixian 2
