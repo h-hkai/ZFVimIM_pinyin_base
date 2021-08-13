@@ -3,7 +3,8 @@ bei 3
 ben 2 1
 benjiedian 1
 bi 2
-bian 1
+bian 1 1
+bianli 1
 biao 8 1
 biaoshi 3 1 1
 bu 2 2 1
@@ -79,6 +80,7 @@ kai 1
 ke 2
 lai 1
 le 1
+li 1
 liang 1 1
 lie 6
 luo 1
