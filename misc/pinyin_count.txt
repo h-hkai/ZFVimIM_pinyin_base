@@ -19,7 +19,7 @@ cun 1
 da 1
 dabendan 1
 dan 1
-dang 1
+dang 2
 dao 1
 de 22 1
 deng 1
@@ -64,7 +64,7 @@ le 1
 liang 1 1
 lie 1
 qi 1
-qian 3
+qian 4
 qishi 1
 qu 2
 quxiao 1
