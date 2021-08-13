@@ -14,7 +14,7 @@ ceng 1
 cha 4
 chajianceshi 1
 chang 7
-charu 3
+charu 4
 cheng 2 1
 chong 1
 ci 1
@@ -103,7 +103,7 @@ tou 1
 touwei 1
 tui 1
 wei 5 2 1
-weizhi 1
+weizhi 2
 xian 1 1
 xiancheng 4
 xiang 1
