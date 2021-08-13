@@ -4,7 +4,7 @@ ben 2 1
 benjiedian 1
 bi 2
 bian 1
-biao 7 1
+biao 8 1
 biaoshi 3 1 1
 bu 2 2 1
 buchang 1
@@ -79,7 +79,7 @@ ke 2
 lai 1
 le 1
 liang 1 1
-lie 5
+lie 6
 luo 1
 luoji 1
 ma 1
@@ -147,7 +147,7 @@ zheng 1
 zhengshu 1
 zhi 2 1 1 1 1
 zhijian 1
-zhixiang 7
+zhixiang 8
 zhixiangde 1
 zhixiangziduan 1
 zhizhen 4
