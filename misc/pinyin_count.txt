@@ -53,6 +53,7 @@ hanshu 1
 hou 4 1
 houtui 1
 huang 1
+huo 1
 ji 4 1
 jian 2 1 1
 jiang 2
@@ -80,7 +81,7 @@ pianyi 1
 qi 1
 qian 7
 qishi 1
-qu 2
+qu 3
 quxiao 1
 rong 2
 rou 1
@@ -126,7 +127,7 @@ youyu 1
 yu 3 2
 yuan 1
 yue 1
-ze 1
+ze 2
 zhen 1
 zhi 2 1 1 1 1
 zhijian 1
