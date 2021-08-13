@@ -123,6 +123,7 @@ touwei 1
 tui 1
 wei 7 2 1
 weizhi 3
+wu 1
 xi 2
 xian 1 1
 xiancheng 4
@@ -138,7 +139,7 @@ yi 2 2 2 1 1
 yibu 1
 yige 7
 yiguo 1
-yong 2
+yong 3
 yongyu 2
 you 1
 youyu 1
