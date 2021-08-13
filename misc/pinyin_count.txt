@@ -13,7 +13,7 @@ ce 2
 ceng 1
 cha 4
 chajianceshi 1
-chang 7
+chang 8
 charu 4
 cheng 2 1
 chong 1
@@ -32,7 +32,7 @@ di 1
 dian 1
 diao 1
 diaodu 1
-du 11
+du 12
 duan 11 1
 e 1
 er 1
@@ -64,7 +64,7 @@ jiezhu 1
 jiu 1
 jiude 1
 jiwei 1
-ju 2
+ju 3
 kai 1
 ke 2
 lai 1
@@ -93,7 +93,7 @@ shixian 2
 shiyong 1
 shou 1
 shoubu 1
-shu 8 1
+shu 9 1
 shuxing 2
 suo 2
 te 2
