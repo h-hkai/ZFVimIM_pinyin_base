@@ -147,7 +147,7 @@ zheng 1
 zhengshu 1
 zhi 2 1 1 1 1
 zhijian 1
-zhixiang 9
+zhixiang 10
 zhixiangde 1
 zhixiangziduan 1
 zhizhen 4
