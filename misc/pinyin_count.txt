@@ -6,6 +6,7 @@ biao 1
 bu 2 2 1
 buchang 1
 bushi 1
+can 1
 ce 2
 ceng 1
 cha 4
@@ -84,7 +85,7 @@ shixian 2
 shiyong 1
 shou 1
 shoubu 1
-shu 5 1
+shu 6 1
 shuxing 2
 suo 2
 tong 1
@@ -118,7 +119,7 @@ ze 1
 zhen 1
 zhi 2 1 1
 zhijian 1
-zhixiang 5
+zhixiang 6
 zhixiangde 1
 zhixiangziduan 1
 zhizhen 4
