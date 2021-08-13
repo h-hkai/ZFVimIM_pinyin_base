@@ -15,7 +15,7 @@ ceng 1
 cha 4
 chajianceshi 1
 chang 9
-charu 6
+charu 7
 cheng 2 2
 chenggong 1
 chong 1
