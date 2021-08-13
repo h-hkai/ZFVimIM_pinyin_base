@@ -5,7 +5,7 @@ benjiedian 1
 bi 2
 bian 1
 biao 7 1
-biaoshi 2 1 1
+biaoshi 3 1 1
 bu 2 2 1
 buchang 1
 bushi 1
@@ -54,6 +54,8 @@ guo 1
 ha 3
 han 1
 hanshu 1
+heng 1
+hengwei 1
 hou 4 1
 houtui 1
 huang 1
@@ -113,7 +115,7 @@ tongyi 1
 tou 1
 touwei 1
 tui 1
-wei 6 2 1
+wei 7 2 1
 weizhi 3
 xi 2
 xian 1 1
