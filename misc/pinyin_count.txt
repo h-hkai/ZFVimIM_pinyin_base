@@ -1,7 +1,7 @@
 bei 3
 ben 2 1
 benjiedian 1
-bi 1
+bi 2
 bian 1
 biao 1
 bu 2 2 1
@@ -25,7 +25,7 @@ dabendan 1
 dan 1
 dang 3
 dao 1
-de 29 1
+de 30 1
 deng 1
 di 1
 dian 1
@@ -41,7 +41,7 @@ fu 1
 fuzhi 3
 gai 1
 gao 3
-ge 4
+ge 5
 gen 1
 geng 4
 genju 2
@@ -76,7 +76,7 @@ nei 2
 pian 1
 pianyi 1
 qi 1
-qian 6
+qian 7
 qishi 1
 qu 2
 quxiao 1
@@ -94,7 +94,7 @@ shoubu 1
 shu 7 1
 shuxing 2
 suo 2
-te 1
+te 2
 tong 1
 tongyi 1
 tou 1
