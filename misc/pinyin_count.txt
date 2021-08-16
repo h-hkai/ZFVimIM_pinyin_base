@@ -4,7 +4,7 @@ ben 2 1
 benjiedian 1
 bi 2
 bian 1 1
-bianli 4
+bianli 5
 biao 8 1
 biaoshi 3 1 1
 bu 2 2 1
@@ -29,7 +29,7 @@ cishu 1
 cong 1
 cun 29
 d 1
-da 7
+da 8
 dabendan 1
 dan 1
 dang 7
@@ -93,7 +93,7 @@ jiwei 2
 ju 6
 kai 1
 ke 3
-kuai 1
+kuai 2
 lai 1
 le 1
 li 1
