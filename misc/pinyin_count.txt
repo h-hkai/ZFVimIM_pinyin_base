@@ -20,14 +20,14 @@ chao 1
 charu 8
 cheng 3 2
 chenggong 1
-chi 10
+chi 11
 chong 2
 chu 1
 ci 1 1
 cishi 2
 cishu 1
 cong 1
-cun 18
+cun 19
 d 1
 da 2
 dabendan 1
