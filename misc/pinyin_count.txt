@@ -27,7 +27,7 @@ ci 2 1
 cishi 2
 cishu 1
 cong 2
-cun 39
+cun 40
 d 1
 da 14
 dabendan 1
@@ -48,7 +48,7 @@ e 1
 er 1
 fa 1
 fang 1
-fen 12
+fen 13
 fu 2 1
 fuzhi 4 1
 gai 3
@@ -109,8 +109,8 @@ manzu 1
 mo 1
 moshi 1
 ne 1
-nei 40
-pei 12
+nei 41
+pei 13
 pian 1
 pianyi 1
 qi 2 1
