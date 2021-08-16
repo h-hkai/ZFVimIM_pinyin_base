@@ -33,8 +33,8 @@ da 9
 dabendan 1
 dan 1
 dang 7
-dao 1
-de 62 1
+dao 2
+de 63 1
 deng 1
 di 1 1
 dian 1
@@ -49,7 +49,7 @@ er 1
 fa 1
 fang 1
 fen 9
-fu 1 1
+fu 2 1
 fuzhi 4 1
 gai 3
 gaihanshu 1
@@ -70,7 +70,8 @@ hengwei 1
 hou 4 1
 houtui 1
 huang 1
-hui 1
+hui 1 1
+huifu 1
 huo 2 1
 ji 7 1
 jian 3 1 1 1 1
@@ -145,7 +146,7 @@ tou 1
 touwei 1
 tui 1
 wei 9 2 1
-weizhi 7
+weizhi 8
 wen 1
 wu 1
 xi 3
