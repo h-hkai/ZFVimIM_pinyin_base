@@ -151,7 +151,7 @@ xin 11
 xing 2
 yi 2 2 2 1 1
 yibu 1
-yige 8
+yige 9
 yiguo 1
 yong 3
 yongyu 2
@@ -169,8 +169,9 @@ zhengshu 1
 zhi 3 2 1 1 1 1
 zhijian 1
 zhishi 1
-zhixiang 11
+zhixiang 12
 zhixiangde 1
+zhixiangyige 1
 zhixiangziduan 1
 zhizhen 5
 zhong 2 1
