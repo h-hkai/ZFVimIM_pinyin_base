@@ -7,7 +7,7 @@ bian 1 1
 bianli 5
 biao 8 1
 biaoshi 3 1 1
-bu 2 2 1
+bu 3 2 1
 buchang 1
 bushi 1
 can 2
@@ -38,12 +38,13 @@ dang 7
 dao 2
 de 70 2
 deng 1
-di 1 1
+di 1 1 1
 dian 1
 diao 3
 diaodu 1
 ding 1
 diyige 1
+dizhi 1
 du 20
 duan 16 1
 e 1
@@ -109,7 +110,7 @@ luo 1
 luoji 1
 ma 1
 man 1
-manzu 1
+manzu 2
 mo 1
 moshi 1
 ne 1
@@ -129,7 +130,7 @@ rong 2
 rou 1
 rouxing 2
 ru 2 1
-ruo 3
+ruo 4
 shi 9 5 3 2 2 1 1 1 1 1 1
 shibai 2
 shide 1
@@ -185,12 +186,12 @@ yuan 2
 yuansuqian 1
 yue 1
 zai 1
-ze 6
+ze 7
 zhan 1
 zhen 1
 zheng 1
 zhengshu 1
-zhi 3 2 1 1 1 1
+zhi 3 2 1 1 1 1 1
 zhijian 2
 zhishi 1
 zhixiang 16
