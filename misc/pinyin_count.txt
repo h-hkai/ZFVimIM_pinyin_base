@@ -152,7 +152,7 @@ tou 1
 touwei 1
 tui 1
 wei 9 2 1
-weizhi 8
+weizhi 9
 wen 1
 wu 1
 xi 3
@@ -185,7 +185,7 @@ yuan 2
 yuansuqian 1
 yue 1
 zai 1
-ze 5
+ze 6
 zhan 1
 zhen 1
 zheng 1
@@ -197,7 +197,7 @@ zhixiang 16
 zhixiangde 1
 zhixiangyige 1
 zhixiangziduan 1
-zhizhen 6
+zhizhen 7
 zhong 5 1
 zhu 4 1 1
 zhuyi 1
