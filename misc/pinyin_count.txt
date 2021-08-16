@@ -34,7 +34,7 @@ dabendan 1
 dan 1
 dang 7
 dao 1
-de 59 1
+de 60 1
 deng 1
 di 1 1
 dian 1
@@ -64,6 +64,7 @@ guo 3
 ha 3
 han 1
 hanshu 4
+he 1
 heng 1
 hengwei 1
 hou 4 1
@@ -148,7 +149,7 @@ weizhi 6
 wen 1
 wu 1
 xi 3
-xia 2
+xia 3
 xian 1 1
 xiancheng 4
 xiang 1
@@ -182,7 +183,7 @@ zhen 1
 zheng 1
 zhengshu 1
 zhi 3 2 1 1 1 1
-zhijian 1
+zhijian 2
 zhishi 1
 zhixiang 16
 zhixiangde 1
