@@ -21,7 +21,7 @@ charu 8
 cheng 3 2
 chenggong 1
 chi 17
-chong 2
+chong 3
 chu 1
 ci 2 1
 cishi 2
@@ -74,7 +74,7 @@ hui 1
 huo 2 1
 ji 7 1
 jian 3 1 1 1 1
-jiang 3
+jiang 4
 jianting 1
 jie 3 3 1
 jiedian 20
@@ -159,7 +159,7 @@ xiaohui 2
 xiaoyu 2
 xie 1
 xiecheng 5
-xin 11
+xin 12
 xing 2
 yao 2
 yaoqingchu 1
@@ -189,7 +189,7 @@ zhixiang 16
 zhixiangde 1
 zhixiangyige 1
 zhixiangziduan 1
-zhizhen 5
+zhizhen 6
 zhong 3 1
 zhu 4 1 1
 zhuyi 1
