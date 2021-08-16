@@ -19,12 +19,12 @@ chang 16
 charu 8
 cheng 3 2
 chenggong 1
-chi 2
+chi 3
 chong 2
 ci 1
 cishi 2
 cong 1
-cun 5
+cun 6
 d 1
 da 2
 dabendan 1
@@ -96,7 +96,7 @@ luo 1
 luoji 1
 ma 1
 ne 1
-nei 6
+nei 7
 pei 3
 pian 1
 pianyi 1
@@ -135,6 +135,7 @@ weizhi 6
 wen 1
 wu 1
 xi 2
+xia 1
 xian 1 1
 xiancheng 4
 xiang 1
@@ -147,7 +148,7 @@ xin 11
 xing 2
 yi 2 2 2 1 1
 yibu 1
-yige 7
+yige 8
 yiguo 1
 yong 3
 yongyu 2
