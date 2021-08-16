@@ -137,7 +137,7 @@ tongyi 1
 tou 1
 touwei 1
 tui 1
-wei 8 2 1
+wei 9 2 1
 weizhi 6
 wen 1
 wu 1
