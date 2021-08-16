@@ -26,7 +26,7 @@ ci 1 1
 cishi 2
 cishu 1
 cong 1
-cun 17
+cun 18
 d 1
 da 2
 dabendan 1
@@ -100,7 +100,7 @@ ma 1
 man 1
 manzu 1
 ne 1
-nei 18
+nei 19
 pei 4
 pian 1
 pianyi 1
