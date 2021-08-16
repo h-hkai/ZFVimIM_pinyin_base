@@ -16,7 +16,7 @@ ceng 1
 cha 4
 chajianceshi 1
 chang 16
-chao 1
+chao 2
 charu 8
 cheng 3 2
 chenggong 1
@@ -29,12 +29,12 @@ cishu 1
 cong 1
 cun 21
 d 1
-da 4
+da 5
 dabendan 1
 dan 1
 dang 6
 dao 1
-de 58 1
+de 59 1
 deng 1
 di 1 1
 dian 1
@@ -59,7 +59,7 @@ geng 8
 genju 2
 gong 1
 gou 2
-guo 2
+guo 3
 ha 3
 han 1
 hanshu 2
@@ -185,5 +185,5 @@ zhuyi 1
 zi 16
 zong 3
 zu 3 1
-zui 5
+zui 6
 zuizhong 1
