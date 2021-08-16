@@ -22,14 +22,14 @@ chao 2
 charu 8
 cheng 3 2
 chenggong 1
-chi 20
+chi 21
 chong 3
 chu 1
 ci 2 1
 cishi 2
 cishu 1
 cong 2
-cun 40
+cun 41
 d 1
 da 14
 dabendan 1
@@ -51,6 +51,7 @@ er 1
 fa 1
 fang 1
 fen 13
+fou 1
 fu 2 1
 fuzhi 4 1
 gai 3
@@ -112,7 +113,7 @@ manzu 1
 mo 1
 moshi 1
 ne 1
-nei 41
+nei 42
 pei 13
 pian 1
 pianyi 1
@@ -129,7 +130,7 @@ rou 1
 rouxing 2
 ru 2 1
 ruo 2
-shi 8 5 3 2 2 1 1 1 1 1 1
+shi 9 5 3 2 2 1 1 1 1 1 1
 shibai 2
 shide 1
 shifang 6
@@ -156,9 +157,10 @@ wen 1
 wu 1
 xi 3
 xia 3
-xian 1 1
+xian 2 1
 xiancheng 4
 xiang 1
+xianyou 1
 xiao 11 1 1
 xiaoduanfa 1
 xiaohui 2
@@ -176,7 +178,7 @@ yige 10
 yiguo 1
 yong 5
 yongyu 3
-you 2 1
+you 3 2
 youyu 1
 yu 4 2
 yuan 2
