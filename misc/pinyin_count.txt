@@ -20,14 +20,14 @@ chao 2
 charu 8
 cheng 3 2
 chenggong 1
-chi 13
+chi 14
 chong 2
 chu 1
 ci 1 1
 cishi 2
 cishu 1
 cong 1
-cun 24
+cun 25
 d 1
 da 7
 dabendan 1
@@ -69,6 +69,7 @@ hengwei 1
 hou 4 1
 houtui 1
 huang 1
+hui 1
 huo 2 1
 ji 7 1
 jian 3 1 1 1 1
@@ -102,7 +103,7 @@ ma 1
 man 1
 manzu 1
 ne 1
-nei 25
+nei 26
 pei 8
 pian 1
 pianyi 1
@@ -147,8 +148,9 @@ xia 2
 xian 1 1
 xiancheng 4
 xiang 1
-xiao 7 1
+xiao 7 1 1
 xiaoduanfa 1
+xiaohui 1
 xiaoyu 2
 xie 1
 xiecheng 5
