@@ -161,7 +161,7 @@ xie 1
 xiecheng 5
 xin 11
 xing 2
-yao 1
+yao 2
 yaoqingchu 1
 yi 2 2 2 1 1 1
 yibu 1
@@ -169,7 +169,7 @@ yici 1
 yige 10
 yiguo 1
 yong 4
-yongyu 2
+yongyu 3
 you 1
 youyu 1
 yu 3 2
@@ -191,7 +191,7 @@ zhixiangyige 1
 zhixiangziduan 1
 zhizhen 5
 zhong 3 1
-zhu 3 1 1
+zhu 4 1 1
 zhuyi 1
 zi 16
 zong 3
