@@ -48,7 +48,7 @@ e 1
 er 1
 fa 1
 fang 1
-fen 6
+fen 7
 fu 1 1
 fuzhi 4 1
 gai 1
@@ -102,7 +102,7 @@ man 1
 manzu 1
 ne 1
 nei 23
-pei 6
+pei 7
 pian 1
 pianyi 1
 qi 1
