@@ -11,6 +11,8 @@ bu 2 2 1
 buchang 1
 bushi 1
 can 2
+cao 1
+caozuo 1
 ce 2
 ceng 1
 cha 4
@@ -201,3 +203,4 @@ zong 3
 zu 3 1
 zui 6
 zuizhong 1
+zuo 1
