@@ -125,7 +125,7 @@ rong 2
 rou 1
 rouxing 2
 ru 2 1
-ruo 1
+ruo 2
 shi 8 5 3 2 2 1 1 1 1 1 1
 shibai 2
 shide 1
@@ -138,7 +138,7 @@ shoubu 1
 shu 15 1
 shuxing 2
 su 1
-suo 3
+suo 4
 te 2
 ting 1
 tong 1 1
