@@ -173,6 +173,7 @@ yu 3 2
 yuan 2
 yuansuqian 1
 yue 1
+zai 1
 ze 3
 zhan 1
 zhen 1
