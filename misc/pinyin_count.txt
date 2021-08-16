@@ -22,6 +22,7 @@ cheng 3 2
 chenggong 1
 chi 10
 chong 2
+chu 1
 ci 1 1
 cishi 2
 cishu 1
@@ -33,7 +34,7 @@ dabendan 1
 dan 1
 dang 6
 dao 1
-de 54 1
+de 55 1
 deng 1
 di 1 1
 dian 1
@@ -86,7 +87,7 @@ jinggao 1
 jiu 1
 jiude 1
 jiwei 2
-ju 5
+ju 6
 kai 1
 ke 3
 lai 1
@@ -106,6 +107,7 @@ pian 1
 pianyi 1
 qi 1
 qian 11
+qing 1
 qishi 2
 qu 3
 quxiao 1
@@ -122,7 +124,7 @@ shixian 2
 shiyong 1
 shou 2
 shoubu 1
-shu 14 1
+shu 15 1
 shuxing 2
 su 1
 suo 2
@@ -139,7 +141,7 @@ weizhi 6
 wen 1
 wu 1
 xi 3
-xia 1
+xia 2
 xian 1 1
 xiancheng 4
 xiang 1
@@ -150,9 +152,11 @@ xie 1
 xiecheng 5
 xin 11
 xing 2
+yao 1
+yaoqingchu 1
 yi 2 2 2 1 1
 yibu 1
-yige 9
+yige 10
 yiguo 1
 yong 3
 yongyu 2
