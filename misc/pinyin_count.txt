@@ -65,8 +65,9 @@ houtui 1
 huang 1
 huo 2 1
 ji 4 1
-jian 3 1 1 1
+jian 3 1 1 1 1
 jiang 3
+jianting 1
 jie 3 2 1
 jiedian 20
 jiema 3
@@ -120,6 +121,7 @@ shuxing 2
 su 1
 suo 2
 te 2
+ting 1
 tong 1 1
 tongshi 1
 tongyi 1
