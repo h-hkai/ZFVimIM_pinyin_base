@@ -22,14 +22,14 @@ chao 2
 charu 8
 cheng 3 2
 chenggong 1
-chi 21
+chi 22
 chong 3
 chu 1
 ci 2 1
 cishi 2
 cishu 1
 cong 2
-cun 42
+cun 43
 d 1
 da 14
 dabendan 1
@@ -114,7 +114,7 @@ manzu 2
 mo 1
 moshi 1
 ne 1
-nei 43
+nei 44
 pei 14
 pian 1
 pianyi 1
