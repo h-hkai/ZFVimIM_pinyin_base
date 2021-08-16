@@ -27,7 +27,7 @@ ci 2 1
 cishi 2
 cishu 1
 cong 2
-cun 36
+cun 37
 d 1
 da 11
 dabendan 1
@@ -48,7 +48,7 @@ e 1
 er 1
 fa 1
 fang 1
-fen 10
+fen 11
 fu 2 1
 fuzhi 4 1
 gai 3
@@ -84,10 +84,11 @@ jiewei 1
 jiexi 1
 jiexiwei 2
 jiezhu 1
-jin 1
+jin 2
 jincheng 1
 jing 1
 jinggao 1
+jinxing 1
 jiu 1
 jiude 1
 jiwei 2
@@ -108,8 +109,8 @@ manzu 1
 mo 1
 moshi 1
 ne 1
-nei 37
-pei 10
+nei 38
+pei 11
 pian 1
 pianyi 1
 qi 2 1
@@ -155,14 +156,14 @@ xia 3
 xian 1 1
 xiancheng 4
 xiang 1
-xiao 9 1 1
+xiao 10 1 1
 xiaoduanfa 1
 xiaohui 2
 xiaoyu 3
 xie 1
 xiecheng 5
 xin 12
-xing 2
+xing 2 1
 yao 2
 yaoqingchu 1
 yi 2 2 2 1 1 1
@@ -179,7 +180,7 @@ yuan 2
 yuansuqian 1
 yue 1
 zai 1
-ze 3
+ze 4
 zhan 1
 zhen 1
 zheng 1
