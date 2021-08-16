@@ -27,9 +27,9 @@ ci 1 1
 cishi 2
 cishu 1
 cong 1
-cun 22
+cun 23
 d 1
-da 5
+da 6
 dabendan 1
 dan 1
 dang 7
@@ -102,7 +102,7 @@ ma 1
 man 1
 manzu 1
 ne 1
-nei 23
+nei 24
 pei 8
 pian 1
 pianyi 1
@@ -146,7 +146,7 @@ xia 2
 xian 1 1
 xiancheng 4
 xiang 1
-xiao 5 1
+xiao 6 1
 xiaoduanfa 1
 xiaoyu 2
 xie 1
