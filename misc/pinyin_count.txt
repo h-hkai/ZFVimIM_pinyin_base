@@ -15,7 +15,7 @@ cao 1
 caozuo 1
 ce 2
 ceng 1
-cha 4
+cha 4 1
 chajianceshi 1
 chang 16
 chao 2
@@ -76,7 +76,8 @@ hui 1 1
 huifu 1
 huo 2 1
 ji 7 1
-jian 3 1 1 1 1
+jian 3 1 1 1 1 1
+jiancha 1
 jiang 4
 jianting 1
 jie 3 3 1
