@@ -36,6 +36,7 @@ di 1 1
 dian 1
 diao 1
 diaodu 1
+ding 1
 diyige 1
 du 20
 duan 16 1
@@ -154,7 +155,7 @@ zhan 1
 zhen 1
 zheng 1
 zhengshu 1
-zhi 2 2 1 1 1 1
+zhi 3 2 1 1 1 1
 zhijian 1
 zhishi 1
 zhixiang 10
