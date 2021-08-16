@@ -118,6 +118,7 @@ rong 2
 rou 1
 rouxing 2
 ru 2 1
+ruo 1
 shi 6 4 2 2 1 1 1 1 1 1 1
 shibai 2
 shide 1
