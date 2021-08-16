@@ -19,18 +19,19 @@ chang 16
 charu 8
 cheng 3 2
 chenggong 1
+chi 1
 chong 2
 ci 1
 cishi 2
 cong 1
-cun 1
+cun 2
 d 1
 da 2
 dabendan 1
 dan 1
 dang 4
 dao 1
-de 42 1
+de 43 1
 deng 1
 di 1 1
 dian 1
@@ -82,7 +83,7 @@ jinggao 1
 jiu 1
 jiude 1
 jiwei 2
-ju 4
+ju 5
 kai 1
 ke 2
 lai 1
@@ -94,7 +95,7 @@ luo 1
 luoji 1
 ma 1
 ne 1
-nei 2
+nei 3
 pei 1
 pian 1
 pianyi 1
@@ -116,7 +117,7 @@ shixian 2
 shiyong 1
 shou 2
 shoubu 1
-shu 12 1
+shu 13 1
 shuxing 2
 su 1
 suo 2
