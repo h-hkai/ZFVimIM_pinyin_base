@@ -92,6 +92,7 @@ jiwei 2
 ju 6
 kai 1
 ke 3
+kuai 1
 lai 1
 le 1
 li 1
@@ -122,7 +123,7 @@ ruo 1
 shi 6 4 2 2 1 1 1 1 1 1 1
 shibai 2
 shide 1
-shifang 2
+shifang 3
 shihou 1
 shixian 2
 shiyong 1
