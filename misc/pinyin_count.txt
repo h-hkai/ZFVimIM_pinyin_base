@@ -24,14 +24,14 @@ chong 2
 ci 1
 cishi 2
 cong 1
-cun 3
+cun 4
 d 1
 da 2
 dabendan 1
 dan 1
 dang 5
 dao 1
-de 43 1
+de 44 1
 deng 1
 di 1 1
 dian 1
@@ -45,7 +45,7 @@ e 1
 er 1
 fa 1
 fang 1
-fen 1
+fen 3
 fu 1 1
 fuzhi 4 1
 gai 1
@@ -66,7 +66,7 @@ hou 4 1
 houtui 1
 huang 1
 huo 2 1
-ji 4 1
+ji 5 1
 jian 3 1 1 1 1
 jiang 3
 jianting 1
@@ -86,7 +86,7 @@ jiude 1
 jiwei 2
 ju 5
 kai 1
-ke 2
+ke 3
 lai 1
 le 1
 li 1
@@ -96,13 +96,13 @@ luo 1
 luoji 1
 ma 1
 ne 1
-nei 4
-pei 1
+nei 5
+pei 3
 pian 1
 pianyi 1
 qi 1
 qian 10
-qishi 1
+qishi 2
 qu 3
 quxiao 1
 rong 2
@@ -131,7 +131,7 @@ tou 1
 touwei 1
 tui 1
 wei 7 2 1
-weizhi 3
+weizhi 5
 wen 1
 wu 1
 xi 2
