@@ -63,7 +63,7 @@ gou 2
 guo 3
 ha 3
 han 1
-hanshu 3
+hanshu 4
 heng 1
 hengwei 1
 hou 4 1
