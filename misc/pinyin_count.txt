@@ -20,21 +20,21 @@ chao 1
 charu 8
 cheng 3 2
 chenggong 1
-chi 11
+chi 12
 chong 2
 chu 1
 ci 1 1
 cishi 2
 cishu 1
 cong 1
-cun 19
+cun 20
 d 1
 da 2
 dabendan 1
 dan 1
 dang 6
 dao 1
-de 55 1
+de 56 1
 deng 1
 di 1 1
 dian 1
@@ -101,7 +101,7 @@ ma 1
 man 1
 manzu 1
 ne 1
-nei 20
+nei 21
 pei 5
 pian 1
 pianyi 1
