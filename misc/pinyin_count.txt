@@ -63,7 +63,7 @@ gou 2
 guo 3
 ha 3
 han 1
-hanshu 4
+hanshu 5
 he 1
 heng 1
 hengwei 1
@@ -123,7 +123,7 @@ rou 1
 rouxing 2
 ru 2 1
 ruo 1
-shi 6 4 2 2 2 1 1 1 1 1 1
+shi 7 5 2 2 2 1 1 1 1 1 1
 shibai 2
 shide 1
 shifang 4
@@ -155,7 +155,7 @@ xiancheng 4
 xiang 1
 xiao 7 1 1
 xiaoduanfa 1
-xiaohui 1
+xiaohui 2
 xiaoyu 2
 xie 1
 xiecheng 5
