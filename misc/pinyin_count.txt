@@ -4,7 +4,7 @@ ben 2 1
 benjiedian 1
 bi 2
 bian 1 1
-bianli 2
+bianli 3
 biao 8 1
 biaoshi 3 1 1
 bu 2 2 1
