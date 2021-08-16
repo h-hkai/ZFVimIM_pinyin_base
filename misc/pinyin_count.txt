@@ -19,13 +19,13 @@ chang 16
 charu 8
 cheng 3 2
 chenggong 1
-chi 6
+chi 7
 chong 2
 ci 1 1
 cishi 2
 cishu 1
 cong 1
-cun 10
+cun 11
 d 1
 da 2
 dabendan 1
@@ -99,7 +99,7 @@ ma 1
 man 1
 manzu 1
 ne 1
-nei 11
+nei 12
 pei 4
 pian 1
 pianyi 1
