@@ -21,8 +21,9 @@ cheng 3 2
 chenggong 1
 chi 3
 chong 2
-ci 1
+ci 1 1
 cishi 2
+cishu 1
 cong 1
 cun 7
 d 1
@@ -31,7 +32,7 @@ dabendan 1
 dan 1
 dang 5
 dao 1
-de 45 1
+de 46 1
 deng 1
 di 1 1
 dian 1
@@ -95,6 +96,8 @@ lie 6
 luo 1
 luoji 1
 ma 1
+man 1
+manzu 1
 ne 1
 nei 8
 pei 4
@@ -110,7 +113,7 @@ rou 1
 rouxing 2
 ru 2 1
 shi 6 4 2 2 1 1 1 1 1 1 1
-shibai 1
+shibai 2
 shide 1
 shifang 1
 shihou 1
@@ -118,7 +121,7 @@ shixian 2
 shiyong 1
 shou 2
 shoubu 1
-shu 13 1
+shu 14 1
 shuxing 2
 su 1
 suo 2
@@ -175,6 +178,6 @@ zhu 3 1 1
 zhuyi 1
 zi 16
 zong 3
-zu 3
+zu 3 1
 zui 5
 zuizhong 1
