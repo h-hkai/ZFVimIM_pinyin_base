@@ -48,10 +48,11 @@ e 1
 er 1
 fa 1
 fang 1
-fen 7
+fen 8
 fu 1 1
 fuzhi 4 1
-gai 1
+gai 2
+gaihanshu 1
 gao 3 1
 ge 8
 gen 1
@@ -62,7 +63,7 @@ gou 2
 guo 3
 ha 3
 han 1
-hanshu 2
+hanshu 3
 heng 1
 hengwei 1
 hou 4 1
@@ -102,7 +103,7 @@ man 1
 manzu 1
 ne 1
 nei 23
-pei 7
+pei 8
 pian 1
 pianyi 1
 qi 1
