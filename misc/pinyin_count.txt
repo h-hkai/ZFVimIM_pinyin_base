@@ -20,20 +20,20 @@ chao 1
 charu 8
 cheng 3 2
 chenggong 1
-chi 9
+chi 10
 chong 2
 ci 1 1
 cishi 2
 cishu 1
 cong 1
-cun 15
+cun 17
 d 1
 da 2
 dabendan 1
 dan 1
 dang 6
 dao 1
-de 50 1
+de 51 1
 deng 1
 di 1 1
 dian 1
@@ -57,11 +57,11 @@ gen 1
 geng 8
 genju 2
 gong 1
-gou 1
+gou 2
 guo 2
 ha 3
 han 1
-hanshu 1
+hanshu 2
 heng 1
 hengwei 1
 hou 4 1
@@ -100,7 +100,7 @@ ma 1
 man 1
 manzu 1
 ne 1
-nei 16
+nei 18
 pei 4
 pian 1
 pianyi 1
@@ -116,7 +116,7 @@ ru 2 1
 shi 6 4 2 2 1 1 1 1 1 1 1
 shibai 2
 shide 1
-shifang 1
+shifang 2
 shihou 1
 shixian 2
 shiyong 1
@@ -138,7 +138,7 @@ wei 7 2 1
 weizhi 6
 wen 1
 wu 1
-xi 2
+xi 3
 xia 1
 xian 1 1
 xiancheng 4
