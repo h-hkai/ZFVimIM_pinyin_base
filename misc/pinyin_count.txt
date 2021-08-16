@@ -4,7 +4,7 @@ ben 2 1
 benjiedian 1
 bi 2
 bian 1 1
-bianli 1
+bianli 2
 biao 8 1
 biaoshi 3 1 1
 bu 2 2 1
@@ -51,7 +51,7 @@ fang 1
 fen 8
 fu 1 1
 fuzhi 4 1
-gai 2
+gai 3
 gaihanshu 1
 gao 3 1
 ge 8
@@ -171,7 +171,7 @@ yu 3 2
 yuan 2
 yuansuqian 1
 yue 1
-ze 2
+ze 3
 zhan 1
 zhen 1
 zheng 1
