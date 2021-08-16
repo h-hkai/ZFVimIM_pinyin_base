@@ -27,7 +27,7 @@ ci 2 1
 cishi 2
 cishu 1
 cong 1
-cun 25
+cun 26
 d 1
 da 7
 dabendan 1
@@ -104,7 +104,7 @@ ma 1
 man 1
 manzu 1
 ne 1
-nei 26
+nei 27
 pei 8
 pian 1
 pianyi 1
@@ -123,7 +123,7 @@ ruo 1
 shi 6 4 2 2 1 1 1 1 1 1 1
 shibai 2
 shide 1
-shifang 3
+shifang 4
 shihou 1
 shixian 2
 shiyong 1
