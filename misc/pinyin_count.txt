@@ -14,7 +14,7 @@ bushi 1
 can 2
 cao 1
 caozuo 1
-ce 2
+ce 3
 ceng 1
 cha 4 1
 chajianceshi 1
@@ -37,7 +37,7 @@ dabendan 1
 dan 1
 dang 7
 dao 2
-de 72 2
+de 73 2
 deng 1
 di 1 1 1
 dian 1
@@ -92,7 +92,7 @@ jiexiwei 2
 jiezhu 1
 jin 2
 jincheng 1
-jing 1
+jing 1 1
 jinggao 1
 jinxing 1
 jiu 1
@@ -174,11 +174,12 @@ xin 12
 xing 2 1
 yao 2
 yaoqingchu 1
-yi 2 2 2 1 1 1
+yi 2 2 2 1 1 1 1
 yibu 1
 yici 1
 yige 10
 yiguo 1
+yijing 1
 yong 5
 yongyu 3
 you 4 2
@@ -202,7 +203,7 @@ zhixiangyige 1
 zhixiangziduan 1
 zhizhen 7
 zhong 5 1
-zhu 4 1 1
+zhu 5 1 1
 zhuyi 1
 zi 16
 zong 3
