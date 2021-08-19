@@ -36,7 +36,7 @@ dabendan 1
 dan 1
 dang 7
 dao 2
-de 71 2
+de 72 2
 deng 1
 di 1 1 1
 dian 1
@@ -167,7 +167,7 @@ xiaoduanfa 1
 xiaohui 2
 xiaoyu 3
 xie 1
-xiecheng 5
+xiecheng 6
 xin 12
 xing 2 1
 yao 2
