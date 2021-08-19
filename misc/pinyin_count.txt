@@ -69,6 +69,7 @@ guo 3
 ha 3
 han 1
 hanshu 6
+hao 1
 he 1
 heng 1
 hengwei 1
@@ -106,7 +107,7 @@ kuai 4
 lai 1
 le 1
 li 1
-liang 1 1
+liang 2 1
 lie 6
 luo 1
 luoji 1
@@ -172,8 +173,9 @@ xiaohui 2
 xiaoyu 3
 xie 1
 xiecheng 6
-xin 12
+xin 12 1
 xing 2 1
+xinhaoliang 1
 yao 2
 yaoqingchu 1
 yi 2 2 2 1 1 1 1
