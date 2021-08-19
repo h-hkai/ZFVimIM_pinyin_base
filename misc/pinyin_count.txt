@@ -175,7 +175,7 @@ xie 1
 xiecheng 6
 xin 12 1
 xing 2 1
-xinhaoliang 1
+xinhaoliang 2
 yao 2
 yaoqingchu 1
 yi 2 2 2 1 1 1 1
