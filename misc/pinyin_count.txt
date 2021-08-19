@@ -7,6 +7,7 @@ bian 1 1
 bianli 5
 biao 8 1
 biaoshi 3 1 1
+bing 1
 bu 3 2 1
 buchang 1
 bushi 1
@@ -97,7 +98,8 @@ jinxing 1
 jiu 1
 jiude 1
 jiwei 2
-ju 6
+ju 6 1
+jubing 1
 kai 1
 ke 3
 kuai 4
