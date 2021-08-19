@@ -85,6 +85,7 @@ hui 1 1
 huifu 1
 huo 2 1
 ji 7 1
+jia 1
 jian 3 1 1 1 1 1
 jiancha 1
 jiang 4
@@ -154,7 +155,7 @@ shoubu 1
 shu 15 1
 shuxing 2
 su 1
-suo 4
+suo 4 1
 te 2
 ting 1
 tong 1 1
@@ -169,9 +170,10 @@ wen 1
 wu 1
 xi 3
 xia 3
-xian 2 1
+xian 2 1 1
 xiancheng 4
 xiang 1
+xianjiasuo 1
 xianyou 1
 xiao 11 1 1
 xiaoduanfa 1
