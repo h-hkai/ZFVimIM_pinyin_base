@@ -55,7 +55,7 @@ er 1
 fa 1
 fang 1
 fen 14
-fou 1
+fou 2
 fu 2 1
 fuzhi 4 1
 gai 3
@@ -102,7 +102,7 @@ jiu 1
 jiude 1
 jiwei 2
 ju 6 1
-jubing 1
+jubing 2
 kai 1
 ke 3
 kuai 4
@@ -139,7 +139,7 @@ ru 2 1
 ruo 4
 san 1
 sange 1
-shi 9 5 3 2 2 1 1 1 1 1 1
+shi 10 5 3 2 2 1 1 1 1 1 1
 shibai 2
 shide 1
 shifang 6
