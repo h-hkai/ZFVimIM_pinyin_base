@@ -179,7 +179,7 @@ xinhaoliang 3
 yao 2
 yaoqingchu 1
 yi 2 2 2 1 1 1 1
-yibu 1
+yibu 2
 yici 1
 yige 10
 yiguo 1
