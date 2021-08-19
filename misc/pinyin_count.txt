@@ -59,7 +59,7 @@ fuzhi 4 1
 gai 3
 gaihanshu 1
 gao 3 1
-ge 8
+ge 9
 gen 1
 geng 8
 genju 2
@@ -133,6 +133,8 @@ rou 1
 rouxing 2
 ru 2 1
 ruo 4
+san 1
+sange 1
 shi 9 5 3 2 2 1 1 1 1 1 1
 shibai 2
 shide 1
