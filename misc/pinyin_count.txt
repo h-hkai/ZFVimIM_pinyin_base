@@ -70,7 +70,7 @@ guo 3
 ha 3
 han 1
 hanshu 6
-hao 1
+hao 1 1
 he 1
 heng 1
 hengwei 1
