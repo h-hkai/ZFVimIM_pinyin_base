@@ -19,13 +19,14 @@ ceng 1
 cha 4 1
 chajianceshi 1
 chang 16
-chao 2
+chao 3
+chaochu 1
 charu 8
 cheng 3 2
 chenggong 1
 chi 22
 chong 3
-chu 1
+chu 1 1
 ci 2 1
 cishi 2
 cishu 1
@@ -53,7 +54,9 @@ duan 16 1
 e 1
 er 1
 fa 1
+fan 1
 fang 1
+fanwei 1
 fen 14
 fou 2
 fu 2 1
@@ -160,7 +163,7 @@ tongyi 1
 tou 1
 touwei 1
 tui 1
-wei 9 2 1
+wei 9 2 1 1
 weizhi 9
 wen 1
 wu 1
