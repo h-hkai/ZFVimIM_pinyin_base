@@ -47,6 +47,7 @@ diaodu 1
 ding 1
 diyige 1
 dizhi 1
+dong 1
 du 20
 duan 16 1
 e 1
@@ -122,8 +123,9 @@ nei 44
 pei 14
 pian 1
 pianyi 1
-qi 2 1
+qi 2 1 1
 qian 12
+qidong 1
 qing 1
 qiqizhong 1
 qishi 3
