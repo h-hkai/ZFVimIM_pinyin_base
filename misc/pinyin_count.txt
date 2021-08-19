@@ -37,7 +37,7 @@ dabendan 1
 dan 1
 dang 7
 dao 2
-de 73 2
+de 74 2
 deng 1
 di 1 1 1
 dian 1
@@ -202,7 +202,7 @@ zhixiangde 1
 zhixiangyige 1
 zhixiangziduan 1
 zhizhen 7
-zhong 5 1
+zhong 6 1
 zhu 5 1 1
 zhuyi 1
 zi 16
