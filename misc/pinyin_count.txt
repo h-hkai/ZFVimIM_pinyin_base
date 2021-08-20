@@ -39,7 +39,7 @@ dai 1
 dan 1
 dang 7
 dao 2
-de 74 2
+de 75 2
 deng 2
 di 1 1 1
 dian 1
@@ -84,7 +84,7 @@ huang 1
 hui 1 1
 huifu 1
 huo 2 1
-ji 7 1
+ji 7 1 1
 jia 1
 jian 3 1 1 1 1 1
 jiancha 1
@@ -105,6 +105,7 @@ jinxing 1
 jiu 1
 jiude 1
 jiwei 2
+jiyu 1
 ju 6 1
 jubing 2
 kai 1
@@ -196,7 +197,7 @@ yong 5
 yongyu 3
 you 4 2
 youyu 1
-yu 4 2
+yu 5 2
 yuan 2
 yuansuqian 1
 yue 1
