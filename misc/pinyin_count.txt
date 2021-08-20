@@ -44,7 +44,7 @@ deng 2
 di 1 1 1
 dian 1
 diao 3
-diaodu 1
+diaodu 2
 ding 1
 diyige 1
 dizhi 1
@@ -181,7 +181,7 @@ xiaoduanfa 1
 xiaohui 2
 xiaoyu 3
 xie 1
-xiecheng 6
+xiecheng 7
 xin 12 1
 xing 2 1
 xinhaoliang 3
