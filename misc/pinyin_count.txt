@@ -37,7 +37,7 @@ da 14
 dabendan 1
 dai 1
 dan 1
-dang 7
+dang 8
 dao 3
 de 76 2
 deng 2
@@ -84,7 +84,7 @@ hua 1
 huang 1
 hui 1 1
 huifu 1
-huo 2 1
+huo 3 1
 ji 7 1 1
 jia 1
 jian 4 1 1 1 1 1
@@ -132,12 +132,12 @@ pei 14
 pian 1
 pianyi 1
 qi 2 1 1
-qian 12
+qian 13
 qidong 1
 qing 1
 qiqizhong 1
 qishi 3
-qu 4
+qu 5
 qude 1
 quxiao 1
 rong 2
