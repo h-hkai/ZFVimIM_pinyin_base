@@ -222,7 +222,7 @@ zhixiangde 1
 zhixiangyige 1
 zhixiangziduan 1
 zhizhen 7
-zhong 6 2
+zhong 7 2
 zhongzhi 1
 zhu 5 1 1
 zhuyi 1
