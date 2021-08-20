@@ -16,7 +16,7 @@ cao 1
 caozuo 1
 ce 3
 ceng 1
-cha 4 1
+cha 4 1 1
 chajianceshi 1
 chang 16
 chao 3
@@ -39,7 +39,7 @@ dai 1
 dan 1
 dang 8
 dao 3
-de 76 2
+de 77 2
 deng 2
 di 1 1 1
 dian 1
@@ -87,7 +87,7 @@ huifu 1
 huo 3 1
 ji 7 1 1
 jia 1
-jian 4 1 1 1 1 1
+jian 4 2 1 1 1 1
 jiancha 1
 jiang 4
 jianting 1
@@ -116,7 +116,7 @@ ke 4
 kuai 5
 lai 2
 le 1
-li 1
+li 1 1
 liang 2 1
 lie 6
 luo 1
@@ -147,11 +147,12 @@ ru 2 1
 ruo 4
 san 1
 sange 1
-shi 12 5 3 2 2 1 1 1 1 1 1
+shi 12 6 3 2 2 1 1 1 1 1 1
 shibai 2
 shide 1
 shifang 6
 shihou 1
+shijian 1
 shixian 2
 shiyong 1
 shou 2
@@ -174,7 +175,7 @@ wen 2
 wu 1
 xi 3
 xia 3
-xian 2 1 1
+xian 3 1 1
 xiancheng 4
 xiang 1
 xianjiasuo 1
@@ -208,7 +209,7 @@ yu 5 2
 yuan 2
 yuansuqian 1
 yue 1
-zai 1
+zai 2
 ze 7
 zhan 1
 zhen 1
