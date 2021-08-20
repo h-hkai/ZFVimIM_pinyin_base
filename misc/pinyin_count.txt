@@ -39,7 +39,7 @@ dai 1
 dan 1
 dang 7
 dao 3
-de 75 2
+de 76 2
 deng 2
 di 1 1 1
 dian 1
@@ -80,6 +80,7 @@ heng 1
 hengwei 1
 hou 4 1
 houtui 1
+hua 1
 huang 1
 hui 1 1
 huifu 1
