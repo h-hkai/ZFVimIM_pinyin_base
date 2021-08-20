@@ -45,7 +45,7 @@ di 1 1 1
 dian 1
 diao 3
 diaodu 2
-ding 1
+ding 2
 diyige 1
 dizhi 1
 dong 1
@@ -108,6 +108,8 @@ jiwei 2
 jiyu 1
 ju 6 1
 jubing 3
+jue 1
+jueding 1
 kai 1
 ke 4
 kuai 4
