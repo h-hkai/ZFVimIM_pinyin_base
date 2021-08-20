@@ -44,7 +44,7 @@ deng 2
 di 1 1 1
 dian 1
 diao 3
-diaodu 2
+diaodu 3
 ding 2
 diyige 1
 dizhi 1
@@ -58,10 +58,10 @@ fan 1
 fang 1
 fanwei 1
 fen 14
-fou 3
+fou 4
 fu 2 1
 fuzhi 4 1
-gai 3
+gai 4
 gaihanshu 1
 gao 3 1
 ge 9
@@ -112,7 +112,7 @@ jue 1
 jueding 1
 kai 1
 ke 4
-kuai 4
+kuai 5
 lai 2
 le 1
 li 1
@@ -123,7 +123,7 @@ luoji 1
 ma 1
 man 1
 manzu 2
-mo 1
+mo 2
 moshi 1
 ne 1
 nei 44
@@ -146,7 +146,7 @@ ru 2 1
 ruo 4
 san 1
 sange 1
-shi 11 5 3 2 2 1 1 1 1 1 1
+shi 12 5 3 2 2 1 1 1 1 1 1
 shibai 2
 shide 1
 shifang 6
@@ -183,7 +183,8 @@ xiaoduanfa 1
 xiaohui 2
 xiaoyu 3
 xie 1
-xiecheng 7
+xiecheng 8
+xiechengdiaodu 1
 xin 12 2
 xing 2 1
 xinhao 2
@@ -196,6 +197,8 @@ yici 1
 yige 10
 yiguo 1
 yijing 1
+ying 1
+yinggai 1
 yong 5
 yongyu 3
 you 6 2
@@ -210,7 +213,7 @@ zhan 1
 zhen 1
 zheng 1
 zhengshu 1
-zhi 3 2 1 1 1 1 1
+zhi 3 2 1 1 1 1 1 1
 zhijian 2
 zhishi 1
 zhixiang 16
@@ -218,7 +221,8 @@ zhixiangde 1
 zhixiangyige 1
 zhixiangziduan 1
 zhizhen 7
-zhong 6 1
+zhong 6 2
+zhongzhi 1
 zhu 5 1 1
 zhuyi 1
 zi 16
