@@ -39,7 +39,7 @@ dai 1
 dan 1
 dang 9
 dao 3
-de 78 2
+de 79 2
 deng 2
 di 1 1 1
 dian 1
@@ -132,7 +132,7 @@ nei 44
 pei 14
 pian 1
 pianyi 1
-qi 2 1 1
+qi 2 1 1 1
 qian 14
 qidong 1
 qing 1
@@ -153,7 +153,7 @@ shibai 2
 shide 1
 shifang 6
 shihou 1
-shijian 1
+shijian 2
 shixian 2
 shiyong 1
 shou 2
@@ -227,6 +227,8 @@ zhixiangziduan 1
 zhizhen 7
 zhong 7 2
 zhongzhi 1
+zhou 1
+zhouqi 2
 zhu 5 1 1
 zhuyi 1
 zi 16
