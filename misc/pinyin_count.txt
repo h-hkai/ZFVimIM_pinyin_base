@@ -70,11 +70,11 @@ gen 1
 geng 8
 genju 2
 gong 1
-gou 2 1
+gou 3 1
 guo 3
 ha 3
 han 1
-hanshu 6
+hanshu 7
 hao 2 1
 he 1
 heng 1
@@ -211,6 +211,7 @@ yuan 2
 yuansuqian 1
 yue 1
 zai 2
+zao 1
 ze 7
 zhan 1
 zhen 1
