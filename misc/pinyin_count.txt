@@ -175,7 +175,7 @@ weizhi 9
 wen 2
 wu 1
 xi 3
-xia 3
+xia 4
 xian 3 1 1
 xiancheng 4
 xiang 1
@@ -197,7 +197,7 @@ yaoqingchu 1
 yi 3 2 2 1 1 1 1
 yibu 2
 yici 1
-yige 10
+yige 11
 yiguo 1
 yijing 1
 ying 1
