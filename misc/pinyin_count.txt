@@ -46,7 +46,7 @@ dian 1
 diao 3
 diaodu 3
 ding 3
-dingshi 1
+dingshi 2
 diyige 1
 dizhi 1
 dong 1
