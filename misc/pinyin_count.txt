@@ -13,7 +13,7 @@ buchang 1
 bushi 1
 can 2
 cao 1
-caozuo 1
+caozuo 2
 ce 3
 ceng 1
 cha 4 1 1
@@ -50,8 +50,9 @@ dingshi 2
 diyige 1
 dizhi 1
 dong 1
-du 20
+du 20 1
 duan 16 1
+ducaozuo 1
 e 1
 er 1
 fa 1
