@@ -90,7 +90,7 @@ huifu 1
 huo 3 1
 ji 7 1 1
 jia 1
-jian 4 2 1 1 1 1
+jian 5 2 1 1 1 1
 jiancha 1
 jiang 4
 jianting 1
@@ -112,7 +112,7 @@ jiushi 1
 jiwei 2
 jiyu 1
 ju 6 1
-jubing 3
+jubing 4
 jue 1
 jueding 1
 kai 1
@@ -120,6 +120,7 @@ ke 4
 kuai 5
 lai 2
 le 1
+lei 1
 li 1 1
 liang 2 1
 lie 6
@@ -177,7 +178,7 @@ touwei 1
 tui 1
 wei 9 2 1 1
 weizhi 9
-wen 2
+wen 3
 wu 1
 xi 3
 xia 4
