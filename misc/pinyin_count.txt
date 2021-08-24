@@ -76,7 +76,7 @@ gou 3 1
 guo 3
 ha 3
 han 1
-hanshu 7
+hanshu 8
 hao 2 1
 he 1
 heng 1
@@ -117,6 +117,7 @@ jue 1
 jueding 1
 kai 1
 ke 4
+ku 1
 kuai 5
 lai 2
 le 1
