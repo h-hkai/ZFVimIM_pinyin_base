@@ -61,6 +61,8 @@ fang 1
 fanhui 2
 fanwei 1
 fen 14
+feng 1
+fengzhuang 1
 fou 4
 fu 2 1
 fuzhi 4 1
@@ -238,6 +240,7 @@ zhongzhi 1
 zhou 1
 zhouqi 2
 zhu 5 1 1
+zhuang 1
 zhuyi 1
 zi 16
 zong 3
