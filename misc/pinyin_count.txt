@@ -91,7 +91,7 @@ huo 3 1
 ji 7 1 1
 jia 1
 jian 5 2 1 1 1 1
-jiancha 1
+jiancha 2
 jiang 4
 jianting 1
 jie 3 3 1
