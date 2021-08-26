@@ -9,12 +9,12 @@ bianli 5
 biao 8 1
 biaoshi 3 1 1
 bing 1
-bu 3 2 1
+bu 3 2 2
 buchang 1
 bushi 1
 can 2
 cao 2
-caozuo 2 2
+caozuo 3 2
 ce 3
 ceng 1
 cha 4 1 1
@@ -136,7 +136,8 @@ manzu 2
 mo 2
 moshi 1
 ne 1
-nei 44
+nei 45
+neibucaozuo 1
 pei 14
 pian 1
 pianyi 1
