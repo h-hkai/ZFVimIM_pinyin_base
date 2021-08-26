@@ -40,7 +40,7 @@ dai 1
 dan 1
 dang 9
 dao 3
-de 84 2
+de 85 2
 deng 2
 di 1 1 1
 dian 1
@@ -95,7 +95,7 @@ ji 7 1 1
 jia 1
 jian 5 2 1 1 1 1
 jiancha 3
-jiang 4
+jiang 5
 jianting 1
 jie 3 3 1
 jiedian 20
@@ -114,7 +114,7 @@ jiude 1
 jiushi 1
 jiwei 2
 jiyu 1
-ju 6 1
+ju 7 1
 jubing 4
 jue 1
 jueding 1
@@ -168,7 +168,7 @@ shixian 2
 shiyong 1
 shou 2
 shoubu 1
-shu 16 1
+shu 17 1
 shuxing 2
 shuzhi 1
 su 1
@@ -238,7 +238,7 @@ zhixiangde 1
 zhixiangyige 1
 zhixiangziduan 1
 zhizhen 7
-zhong 7 2
+zhong 8 2
 zhongzhi 1
 zhou 1
 zhouqi 2
