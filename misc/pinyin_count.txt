@@ -126,14 +126,16 @@ kuai 5
 lai 2
 le 1
 lei 1
-li 1 1
+li 1 1 1
 liang 2 1
 lie 6
+limian 1
 luo 1
 luoji 1
 ma 1
 man 1
 manzu 2
+mian 1
 mo 2
 moshi 1
 ne 1
