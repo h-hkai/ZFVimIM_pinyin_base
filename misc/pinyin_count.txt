@@ -40,7 +40,7 @@ dai 1
 dan 1
 dang 9
 dao 3
-de 83 2
+de 84 2
 deng 2
 di 1 1 1
 dian 1
@@ -81,7 +81,7 @@ ha 3
 han 1
 hanshu 8
 hao 2 1
-he 2
+he 3
 heng 1
 hengwei 1
 hou 4 1
@@ -158,7 +158,7 @@ ru 2 1
 ruo 4
 san 1
 sange 1
-shi 13 7 3 2 2 1 1 1 1 1 1
+shi 14 7 3 2 2 1 1 1 1 1 1
 shibai 2
 shide 1
 shifang 6
@@ -174,6 +174,7 @@ shuzhi 1
 su 1
 suo 4 1
 te 2
+ti 1
 ting 1
 tong 1 1
 tongshi 1
@@ -214,9 +215,9 @@ yiguo 1
 yijing 1
 ying 1
 yinggai 1
-yong 5
+yong 6
 yongyu 3
-you 6 2
+you 7 2
 youyu 1
 yu 5 2
 yuan 2
