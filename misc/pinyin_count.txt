@@ -86,7 +86,7 @@ heng 1
 hengwei 1
 hou 4 1
 houtui 1
-hua 1
+hua 1 1
 huang 1
 hui 1 1 1
 huifu 1
