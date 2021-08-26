@@ -3,7 +3,8 @@ bei 3
 ben 2 1
 benjiedian 1
 bi 2
-bian 1 1
+bian 1 1 1
+biancheng 1
 bianli 5
 biao 8 1
 biaoshi 3 1 1
@@ -22,7 +23,7 @@ chang 16
 chao 3
 chaochu 1
 charu 8
-cheng 3 2
+cheng 4 2
 chenggong 1
 chi 22
 chong 3
