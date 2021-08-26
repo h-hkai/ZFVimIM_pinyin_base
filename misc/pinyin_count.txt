@@ -32,7 +32,7 @@ ci 2 1
 cishi 2
 cishu 1
 cong 2
-cun 43
+cun 44
 d 1
 da 16
 dabendan 1
@@ -40,7 +40,7 @@ dai 1
 dan 1
 dang 9
 dao 3
-de 85 2
+de 86 2
 deng 2
 di 1 1 1
 dian 1
@@ -58,10 +58,11 @@ e 1
 er 1
 fa 1
 fan 1 1 1
-fang 1
+fang 1 1
+fangshi 1
 fanhui 2
 fanwei 1
-fen 14
+fen 15
 feng 1
 fengzhuang 2
 fou 4
@@ -74,7 +75,7 @@ ge 9
 gen 1
 geng 8
 genju 2
-gong 1
+gong 1 1
 gou 3 1
 guo 3
 ha 3
@@ -95,7 +96,7 @@ ji 7 1 1
 jia 1
 jian 5 2 1 1 1 1
 jiancha 3
-jiang 5
+jiang 6
 jianting 1
 jie 3 3 1
 jiedian 20
@@ -136,9 +137,9 @@ manzu 2
 mo 2
 moshi 1
 ne 1
-nei 45
+nei 46
 neibucaozuo 1
-pei 14
+pei 15
 pian 1
 pianyi 1
 qi 2 1 1 1
@@ -158,14 +159,14 @@ ru 2 1
 ruo 4
 san 1
 sange 1
-shi 14 7 3 2 2 1 1 1 1 1 1
+shi 14 7 3 3 2 1 1 1 1 1 1
 shibai 2
 shide 1
 shifang 6
 shihou 2
 shijian 2
 shixian 2
-shiyong 1
+shiyong 2
 shou 2
 shoubu 1
 shu 17 1
@@ -207,6 +208,7 @@ xinhao 2
 xinhaoliang 3
 yao 2
 yaoqingchu 1
+ye 1
 yi 3 2 2 1 1 1 1
 yibu 2
 yici 1
@@ -238,7 +240,7 @@ zhixiangde 1
 zhixiangyige 1
 zhixiangziduan 1
 zhizhen 7
-zhong 8 2
+zhong 9 2
 zhongzhi 1
 zhou 1
 zhouqi 2
