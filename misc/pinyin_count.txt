@@ -81,7 +81,7 @@ ha 3
 han 1
 hanshu 8
 hao 2 1
-he 1
+he 2
 heng 1
 hengwei 1
 hou 4 1
