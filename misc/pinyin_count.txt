@@ -102,7 +102,7 @@ jie 3 3 1
 jiedian 20
 jiema 3
 jiewei 1
-jiexi 1
+jiexi 2
 jiexiwei 2
 jiezhu 1
 jin 2
@@ -206,7 +206,7 @@ xie 3 1
 xiecaozuo 1
 xiecheng 8
 xiechengdiaodu 1
-xieyi 2
+xieyi 3
 xin 12 2
 xing 2 1
 xinhao 2
