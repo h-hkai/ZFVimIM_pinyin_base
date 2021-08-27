@@ -64,7 +64,7 @@ fanhui 2
 fanwei 1
 fen 15
 feng 1
-fengzhuang 2
+fengzhuang 3
 fou 4
 fu 2 1
 fuzhi 4 1
@@ -124,7 +124,7 @@ ke 4
 ku 1
 kuai 5
 lai 2
-le 2
+le 3
 lei 1
 li 1 1 1
 liang 2 1
