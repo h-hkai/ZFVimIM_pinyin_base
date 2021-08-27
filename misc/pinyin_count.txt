@@ -40,7 +40,7 @@ dai 1
 dan 1
 dang 9
 dao 3
-de 86 2
+de 87 2
 deng 2
 di 1 1 1
 dian 1
