@@ -139,7 +139,7 @@ mian 1
 mo 2
 moshi 1
 ne 1
-nei 46
+nei 47
 neibucaozuo 1
 pei 15
 pian 1
@@ -154,7 +154,7 @@ qu 6
 qude 1
 qufan 1
 quxiao 1
-rong 2
+rong 3
 rou 1
 rouxing 2
 ru 2 1
