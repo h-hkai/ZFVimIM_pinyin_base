@@ -124,7 +124,7 @@ ke 4
 ku 1
 kuai 5
 lai 2
-le 1
+le 2
 lei 1
 li 1 1 1
 liang 2 1
@@ -138,6 +138,7 @@ manzu 2
 mian 1
 mo 2
 moshi 1
+n 1
 ne 1
 nei 47
 neibucaozuo 1
