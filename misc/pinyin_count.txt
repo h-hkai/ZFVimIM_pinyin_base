@@ -202,7 +202,7 @@ xiao 11 1 1
 xiaoduanfa 1
 xiaohui 2
 xiaoyu 3
-xie 1 1
+xie 2 1
 xiecaozuo 1
 xiecheng 8
 xiechengdiaodu 1
@@ -213,7 +213,7 @@ xinhaoliang 3
 yao 2
 yaoqingchu 1
 ye 1
-yi 3 2 2 1 1 1 1
+yi 4 2 2 1 1 1 1
 yibu 2
 yici 1
 yige 12
