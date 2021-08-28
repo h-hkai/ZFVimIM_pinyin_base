@@ -79,8 +79,8 @@ gong 2 1
 gou 3 1
 guo 3
 ha 3
-hai 1
-haimei 1
+hai 2
+haimei 2
 han 1
 hanshu 8
 hao 2 1
@@ -104,7 +104,7 @@ jie 3 3 1
 jiedian 20
 jiema 3
 jiewei 1
-jiexi 3
+jiexi 4
 jiexiwei 2
 jiezhu 1
 jin 2
@@ -137,7 +137,7 @@ luoji 1
 ma 1
 man 1
 manzu 2
-mei 1
+mei 2
 mian 1
 mo 2
 moshi 1
