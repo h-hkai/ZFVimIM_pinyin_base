@@ -126,7 +126,7 @@ ke 4
 ku 1
 kuai 5
 lai 2
-le 4
+le 5
 lei 1
 li 1 1 1
 liang 2 1
@@ -171,7 +171,7 @@ shide 1
 shifang 6
 shihou 2
 shijian 2
-shixian 2
+shixian 3
 shiyong 2
 shou 2
 shoubu 1
@@ -220,7 +220,7 @@ ye 1
 yi 4 2 2 1 1 1 1 1
 yibu 2
 yici 1
-yige 12
+yige 13
 yiguo 1
 yijing 1
 ying 1
