@@ -51,6 +51,7 @@ dingshi 2
 diyige 1
 dizhi 1
 dong 1
+dou 1
 du 20 1
 duan 16 3
 ducaozuo 1
@@ -138,7 +139,7 @@ luoji 1
 ma 1
 man 1
 manzu 2
-mei 4
+mei 5
 mian 1
 mo 2
 moshi 1
@@ -166,14 +167,14 @@ ru 2 1
 ruo 4
 san 1
 sange 1
-shi 14 7 3 3 2 1 1 1 1 1 1
+shi 15 8 3 3 2 1 1 1 1 1 1
 shibai 2
 shide 1
 shifang 6
 shihou 2
 shijian 2
 shixian 3
-shiyong 2
+shiyong 3
 shou 2 1
 shoubu 1
 shu 17 1
@@ -228,7 +229,7 @@ ying 1
 yinggai 1
 yong 6
 yongyu 3
-you 8 2
+you 9 2
 youyu 1
 yu 5 2
 yuan 2
