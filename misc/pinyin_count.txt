@@ -180,7 +180,7 @@ shu 17 1
 shuxing 2
 shuzhi 1
 su 1
-suo 4 1
+suo 5 1
 te 2
 ti 1
 ting 1
@@ -228,7 +228,7 @@ ying 1
 yinggai 1
 yong 6
 yongyu 3
-you 7 2
+you 8 2
 youyu 1
 yu 5 2
 yuan 2
