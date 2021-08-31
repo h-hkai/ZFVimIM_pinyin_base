@@ -130,7 +130,7 @@ ke 5
 ku 1
 kuai 5
 lai 2
-le 5
+le 6
 lei 1
 li 1 1 1 1
 liang 2 1
@@ -238,7 +238,7 @@ ying 1
 yinggai 1
 yong 7
 yongyu 4
-you 9 2
+you 9 2 1
 youyu 2
 yu 5 2
 yuan 2
