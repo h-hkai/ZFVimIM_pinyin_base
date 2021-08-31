@@ -118,7 +118,7 @@ jinggao 1
 jinxing 1
 jiu 1 1
 jiude 1
-jiushi 2
+jiushi 3
 jiwei 2
 jiyu 2
 ju 7 1
@@ -185,6 +185,7 @@ shiyong 3
 shou 2 1
 shoubu 1
 shu 18 1
+shuo 1
 shuxing 3
 shuzhi 1
 su 1
@@ -228,7 +229,7 @@ xinhaoliang 3
 xitong 2
 yao 2
 yaoqingchu 1
-ye 1
+ye 2
 yi 5 2 2 1 1 1 1 1
 yibu 2
 yici 1
