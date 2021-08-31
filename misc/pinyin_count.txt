@@ -39,9 +39,9 @@ da 16
 dabendan 1
 dai 1
 dan 1
-dang 9
+dang 10
 dao 4
-de 93 2
+de 95 2
 deng 2
 di 1 1 1
 dian 1
@@ -96,7 +96,7 @@ hua 1 1
 huang 1
 hui 1 1 1
 huifu 1
-huo 3 1
+huo 4 1
 ji 8 1 1 1
 jia 1
 jian 8 2 1 1 1 1
@@ -156,12 +156,12 @@ pei 15
 pian 1
 pianyi 1
 qi 2 1 1 1
-qian 14
+qian 15
 qidong 1
 qing 1
 qiqizhong 1
 qishi 3
-qu 6
+qu 7
 qude 1
 qufan 1
 quxiao 1
@@ -177,7 +177,7 @@ shibai 2
 shide 1
 shifang 6
 shihou 2
-shijian 6
+shijian 8
 shijiyongyu 1
 shixian 3
 shiyong 3
@@ -190,8 +190,9 @@ su 1
 suo 5 1
 te 2
 ti 1
+tiao 1
 ting 1
-tong 2 1
+tong 3 1
 tongshi 1
 tongyi 1
 tou 1
@@ -202,7 +203,7 @@ wei 10 2 1 1
 weizhi 9
 wen 5
 wu 1
-xi 4
+xi 4 1
 xia 4
 xian 3 1 1
 xiancheng 4
@@ -222,6 +223,7 @@ xin 12 2
 xing 2 2
 xinhao 2
 xinhaoliang 3
+xitong 1
 yao 2
 yaoqingchu 1
 ye 1
@@ -248,7 +250,7 @@ zao 1
 ze 7
 zhan 1
 zhen 1
-zheng 1
+zheng 2
 zhengshu 1
 zhi 3 2 2 2 1 1 1 1 1
 zhidao 1
