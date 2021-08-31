@@ -32,20 +32,20 @@ chenggong 1
 chi 22
 chong 5
 chu 3 1 1
-chuli 2
+chuli 3
 ci 5 1
 cishi 2
 cishu 1
 cong 2
 cun 44
 d 1
-da 16
+da 17
 dabendan 1
 dai 2
 dan 1
 dang 12
 dao 4
-de 103 2
+de 104 2
 deng 3
 di 1 1 1
 dian 1
@@ -160,6 +160,7 @@ naxieshuxing 1
 ne 1
 nei 47
 neibucaozuo 1
+neng 1
 pai 1
 pei 15
 pian 1
@@ -189,7 +190,7 @@ shibai 2
 shide 1
 shifang 6
 shihou 2
-shijian 18
+shijian 19
 shijiyongyu 1
 shixian 3
 shiyong 3
@@ -224,7 +225,7 @@ xiancheng 4
 xiang 1
 xianjiasuo 1
 xianyou 1
-xiao 11 1 1
+xiao 12 1 1
 xiaoduanfa 1
 xiaohui 2
 xiaoyu 4
@@ -234,7 +235,7 @@ xiecheng 8
 xiechengdiaodu 1
 xieyi 3
 xin 13 2
-xing 2 2
+xing 3 2
 xinhao 2
 xinhaoliang 3
 xitong 3
