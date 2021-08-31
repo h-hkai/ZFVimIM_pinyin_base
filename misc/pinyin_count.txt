@@ -40,7 +40,7 @@ dai 1
 dan 1
 dang 9
 dao 3
-de 87 2
+de 88 2
 deng 2
 di 1 1 1
 dian 1
@@ -100,7 +100,7 @@ jia 1
 jian 6 2 1 1 1 1
 jiancha 3
 jiang 6
-jianting 1
+jianting 2
 jie 3 3 1 1
 jiedian 20
 jiema 3
@@ -124,7 +124,7 @@ jubing 4
 jue 1
 jueding 1
 kai 1
-ke 4
+ke 5
 ku 1
 kuai 5
 lai 2
@@ -219,7 +219,7 @@ xinhaoliang 3
 yao 2
 yaoqingchu 1
 ye 1
-yi 4 2 2 1 1 1 1 1
+yi 5 2 2 1 1 1 1 1
 yibu 2
 yici 1
 yige 13
