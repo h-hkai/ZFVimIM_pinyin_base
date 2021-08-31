@@ -11,8 +11,9 @@ bianli 5
 biao 8 1
 biaoshi 4 1 1
 bing 1
-bu 3 2 2
+bu 4 2 2
 buchang 1
+buhui 1
 bushi 1
 can 2
 cao 2
@@ -96,7 +97,7 @@ hou 4 1
 houtui 1
 hua 1 1
 huang 1
-hui 1 1 1 1
+hui 2 1 1 1
 huifu 1
 huo 4 1
 ji 8 1 1 1
@@ -179,12 +180,12 @@ ruo 4
 san 1
 sange 1
 shang 1
-shi 16 8 3 3 2 2 2 1 1 1 1
+shi 16 9 3 3 2 2 2 1 1 1 1
 shibai 2
 shide 1
 shifang 6
 shihou 2
-shijian 12
+shijian 13
 shijiyongyu 1
 shixian 3
 shiyong 3
@@ -254,7 +255,7 @@ yuansuqian 1
 yue 1
 yun 1
 yunxing 1
-zai 3
+zai 4
 zao 1 1
 ze 7
 zhan 1
