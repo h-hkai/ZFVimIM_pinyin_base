@@ -40,7 +40,7 @@ dai 1
 dan 1
 dang 9
 dao 3
-de 88 2
+de 89 2
 deng 2
 di 1 1 1
 dian 1
@@ -72,7 +72,7 @@ fuzhi 4 1
 gai 4
 gaihanshu 1
 gao 3 1
-ge 9
+ge 10
 gen 1
 geng 8
 genju 2
@@ -177,7 +177,7 @@ shixian 3
 shiyong 3
 shou 2 1
 shoubu 1
-shu 17 1
+shu 18 1
 shuxing 2
 shuzhi 1
 su 1
