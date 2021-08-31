@@ -30,7 +30,7 @@ charu 8
 cheng 4 2
 chenggong 1
 chi 22
-chong 4
+chong 5
 chu 3 1 1
 chuli 2
 ci 5 1
@@ -134,7 +134,7 @@ kai 2
 kaishishijian 1
 ke 5
 ku 1
-kuai 5
+kuai 6
 lai 2
 le 6
 lei 1
@@ -233,7 +233,7 @@ xiecaozuo 1
 xiecheng 8
 xiechengdiaodu 1
 xieyi 3
-xin 12 2
+xin 13 2
 xing 2 2
 xinhao 2
 xinhaoliang 3
@@ -242,13 +242,14 @@ yang 1
 yao 2
 yaoqingchu 1
 ye 3
-yi 5 3 2 1 1 1 1 1
+yi 5 3 3 1 1 1 1 1
 yibu 2
 yichu 1
 yici 1
 yige 16
 yiguo 1
 yijing 1
+yikuai 1
 ying 1
 yinggai 1
 yong 8
