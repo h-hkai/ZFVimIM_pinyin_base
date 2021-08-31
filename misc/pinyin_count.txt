@@ -7,7 +7,7 @@ bian 1 1 1
 biancheng 1
 bianli 5
 biao 8 1
-biaoshi 3 1 1
+biaoshi 4 1 1
 bing 1
 bu 3 2 2
 buchang 1
@@ -40,7 +40,7 @@ dai 1
 dan 1
 dang 9
 dao 3
-de 90 2
+de 91 2
 deng 2
 di 1 1 1
 dian 1
@@ -72,7 +72,7 @@ fuzhi 4 1
 gai 5
 gaihanshu 1
 gao 3 1
-ge 10
+ge 11
 gen 1
 geng 8
 genju 2
@@ -99,7 +99,7 @@ ji 8 1 1
 jia 1
 jian 6 2 1 1 1 1
 jiancha 3
-jiang 6
+jiang 7
 jianting 2
 jie 3 3 1 1
 jiedian 20
@@ -143,6 +143,7 @@ mei 5
 mian 1
 mo 2
 moshi 1
+mou 1
 n 1
 na 1
 naxieshuxing 1
