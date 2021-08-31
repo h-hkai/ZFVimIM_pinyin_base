@@ -31,9 +31,9 @@ cheng 4 2
 chenggong 1
 chi 22
 chong 4
-chu 2 1 1
+chu 3 1 1
 chuli 2
-ci 3 1
+ci 4 1
 cishi 2
 cishu 1
 cong 2
@@ -41,12 +41,12 @@ cun 44
 d 1
 da 16
 dabendan 1
-dai 1
+dai 2
 dan 1
 dang 12
 dao 4
 de 103 2
-deng 2
+deng 3
 di 1 1 1
 dian 1
 diao 3
@@ -166,7 +166,7 @@ pianyi 1
 qi 2 1 1 1
 qian 17
 qidong 1
-qing 1
+qing 2
 qiqizhong 1
 qishi 3
 qu 7
@@ -183,7 +183,7 @@ ruo 4
 san 1
 sange 1
 shang 1
-shi 17 9 3 3 2 2 2 1 1 1 1
+shi 17 10 3 3 2 2 2 1 1 1 1
 shibai 2
 shide 1
 shifang 6
@@ -216,7 +216,7 @@ weizhi 9
 wen 5
 wu 1
 xi 4 1
-xia 5
+xia 6
 xian 3 2 1
 xianbei 1
 xiancheng 4
