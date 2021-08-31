@@ -41,7 +41,7 @@ dai 1
 dan 1
 dang 10
 dao 4
-de 96 2
+de 97 2
 deng 2
 di 1 1 1
 dian 1
@@ -163,6 +163,7 @@ qiqizhong 1
 qishi 3
 qu 7
 qude 1
+que 1
 qufan 1
 quxiao 1
 rong 3
@@ -251,9 +252,10 @@ zao 1
 ze 7
 zhan 1
 zhen 1
-zheng 2
+zheng 2 1
+zhengquedezhi 1
 zhengshu 1
-zhi 3 2 2 2 1 1 1 1 1
+zhi 3 3 2 2 1 1 1 1 1
 zhidao 1
 zhijian 2
 zhishi 1
