@@ -41,7 +41,7 @@ dai 1
 dan 1
 dang 10
 dao 4
-de 95 2
+de 96 2
 deng 2
 di 1 1 1
 dian 1
@@ -58,7 +58,7 @@ duan 16 3
 ducaozuo 1
 dui 1
 e 1
-er 1
+er 2
 fa 1
 fan 1 1 1
 fang 1 1
@@ -111,7 +111,7 @@ jiewei 1
 jiexi 6
 jiexiwei 2
 jiezhu 1
-jin 2
+jin 3
 jincheng 1
 jing 1 1
 jinggao 1
