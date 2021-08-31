@@ -1,3 +1,5 @@
+an 1
+anpai 1
 bai 1
 bei 5
 ben 2 1
@@ -152,6 +154,7 @@ naxieshuxing 1
 ne 1
 nei 47
 neibucaozuo 1
+pai 1
 pei 15
 pian 1
 pianyi 1
