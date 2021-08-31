@@ -40,7 +40,7 @@ dai 1
 dan 1
 dang 9
 dao 3
-de 89 2
+de 90 2
 deng 2
 di 1 1 1
 dian 1
@@ -174,7 +174,7 @@ shibai 2
 shide 1
 shifang 6
 shihou 2
-shijian 3
+shijian 4
 shixian 3
 shiyong 3
 shou 2 1
