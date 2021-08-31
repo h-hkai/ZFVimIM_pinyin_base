@@ -40,7 +40,7 @@ dai 1
 dan 1
 dang 9
 dao 4
-de 92 2
+de 93 2
 deng 2
 di 1 1 1
 dian 1
@@ -83,7 +83,7 @@ ha 3
 hai 4
 haimei 4
 han 1
-hanshu 8
+hanshu 9
 hao 2 1
 he 4
 heng 1
