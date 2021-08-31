@@ -30,7 +30,7 @@ chenggong 1
 chi 22
 chong 3
 chu 1 1 1
-chuli 1
+chuli 2
 ci 3 1
 cishi 2
 cishu 1
