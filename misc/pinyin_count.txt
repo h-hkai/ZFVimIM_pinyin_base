@@ -95,7 +95,7 @@ huang 1
 hui 1 1 1
 huifu 1
 huo 3 1
-ji 8 1 1
+ji 8 1 1 1
 jia 1
 jian 7 2 1 1 1 1
 jiancha 3
@@ -170,12 +170,13 @@ ru 2 1
 ruo 4
 san 1
 sange 1
-shi 16 8 3 3 2 1 1 1 1 1 1
+shi 16 8 3 3 2 2 1 1 1 1 1
 shibai 2
 shide 1
 shifang 6
 shihou 2
 shijian 6
+shijiyongyu 1
 shixian 3
 shiyong 3
 shou 2 1
@@ -231,7 +232,7 @@ yijing 1
 ying 1
 yinggai 1
 yong 7
-yongyu 3
+yongyu 4
 you 9 2
 youyu 1
 yu 5 2
