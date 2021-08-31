@@ -27,7 +27,8 @@ cheng 4 2
 chenggong 1
 chi 22
 chong 3
-chu 1 1
+chu 1 1 1
+chuli 1
 ci 2 1
 cishi 2
 cishu 1
@@ -97,7 +98,7 @@ huifu 1
 huo 3 1
 ji 8 1 1 1
 jia 1
-jian 7 2 1 1 1 1
+jian 8 2 1 1 1 1
 jiancha 3
 jiang 7
 jianting 2
@@ -130,7 +131,7 @@ kuai 5
 lai 2
 le 5
 lei 1
-li 1 1 1
+li 1 1 1 1
 liang 2 1
 lie 6
 limian 1
@@ -198,7 +199,7 @@ tui 1
 wang 1
 wei 10 2 1 1
 weizhi 9
-wen 4
+wen 5
 wu 1
 xi 3
 xia 4
