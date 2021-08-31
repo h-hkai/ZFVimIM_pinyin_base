@@ -1,5 +1,5 @@
 bai 1
-bei 3
+bei 4
 ben 2 1
 benjiedian 1
 bi 2
@@ -39,7 +39,7 @@ dabendan 1
 dai 1
 dan 1
 dang 9
-dao 3
+dao 4
 de 92 2
 deng 2
 di 1 1 1
@@ -195,7 +195,7 @@ tou 1
 touwei 1
 tui 1
 wang 1
-wei 9 2 1 1
+wei 10 2 1 1
 weizhi 9
 wen 4
 wu 1
@@ -247,9 +247,11 @@ zhan 1
 zhen 1
 zheng 1
 zhengshu 1
-zhi 3 2 2 1 1 1 1 1
+zhi 3 2 2 2 1 1 1 1 1
+zhidao 1
 zhijian 2
 zhishi 1
+zhiwei 1
 zhixiang 16
 zhixiangde 1
 zhixiangyige 1
