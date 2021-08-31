@@ -94,7 +94,7 @@ hou 4 1
 houtui 1
 hua 1 1
 huang 1
-hui 1 1 1
+hui 1 1 1 1
 huifu 1
 huo 4 1
 ji 8 1 1 1
