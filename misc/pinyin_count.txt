@@ -33,7 +33,7 @@ chi 22
 chong 4
 chu 3 1 1
 chuli 2
-ci 4 1
+ci 5 1
 cishi 2
 cishu 1
 cong 2
@@ -148,7 +148,8 @@ luoji 1
 ma 1
 man 1
 manzu 2
-mei 5
+mei 5 1
+meici 1
 mian 1
 mo 2
 moshi 1
