@@ -216,7 +216,7 @@ xiecheng 8
 xiechengdiaodu 1
 xieyi 3
 xin 12 2
-xing 2 1
+xing 2 2
 xinhao 2
 xinhaoliang 3
 yao 2
@@ -238,6 +238,8 @@ yu 5 2
 yuan 2
 yuansuqian 1
 yue 1
+yun 1
+yunxing 1
 zai 3
 zao 1
 ze 7
