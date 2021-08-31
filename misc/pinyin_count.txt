@@ -105,7 +105,7 @@ ji 8 1 1 1
 jia 1
 jian 8 2 1 1 1 1
 jiancha 3
-jiang 8
+jiang 9
 jianting 2
 jie 3 3 1 1
 jiedian 20
@@ -188,7 +188,7 @@ shibai 2
 shide 1
 shifang 6
 shihou 2
-shijian 16
+shijian 17
 shijiyongyu 1
 shixian 3
 shiyong 3
