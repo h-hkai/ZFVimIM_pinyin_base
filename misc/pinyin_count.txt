@@ -238,6 +238,7 @@ xing 2 2
 xinhao 2
 xinhaoliang 3
 xitong 3
+yang 1
 yao 2
 yaoqingchu 1
 ye 3
@@ -264,10 +265,12 @@ zai 5 2
 zao 1 1
 ze 7
 zhan 1
+zhe 1
 zhen 1
 zheng 2 1
 zhengquedezhi 1
 zhengshu 1
+zheyang 1
 zhi 3 3 2 2 1 1 1 1 1
 zhidao 1
 zhijian 2
