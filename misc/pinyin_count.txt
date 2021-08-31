@@ -120,7 +120,7 @@ jinggao 1
 jinxing 1
 jiu 1 1
 jiude 1
-jiushi 3
+jiushi 4
 jiwei 2
 jiyu 2
 ju 7 1
@@ -242,7 +242,7 @@ yijing 1
 ying 1
 yinggai 1
 yong 7
-yongyu 4
+yongyu 5
 you 9 2 1
 youyu 2
 yu 5 2
