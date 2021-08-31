@@ -238,7 +238,7 @@ yu 5 2
 yuan 2
 yuansuqian 1
 yue 1
-zai 2
+zai 3
 zao 1
 ze 7
 zhan 1
