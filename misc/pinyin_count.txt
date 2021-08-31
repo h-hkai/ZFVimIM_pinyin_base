@@ -69,7 +69,7 @@ fengzhuang 7
 fou 4
 fu 2 1
 fuzhi 4 1
-gai 4
+gai 5
 gaihanshu 1
 gao 3 1
 ge 10
