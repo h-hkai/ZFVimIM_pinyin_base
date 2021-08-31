@@ -31,7 +31,7 @@ chi 22
 chong 3
 chu 1 1 1
 chuli 1
-ci 2 1
+ci 3 1
 cishi 2
 cishu 1
 cong 2
@@ -43,7 +43,7 @@ dai 1
 dan 1
 dang 10
 dao 4
-de 97 2
+de 98 2
 deng 2
 di 1 1 1
 dian 1
@@ -87,7 +87,7 @@ ha 3
 hai 4
 haimei 4
 han 1
-hanshu 9
+hanshu 10
 hao 2 1
 he 4
 heng 1
@@ -113,11 +113,12 @@ jiewei 1
 jiexi 6
 jiexiwei 2
 jiezhu 1
-jin 3
+jin 3 1
 jincheng 1
 jing 1 1
 jinggao 1
 jinxing 1
+jinzao 1
 jiu 1 1
 jiude 1
 jiushi 4
@@ -127,7 +128,8 @@ ju 7 1
 jubing 4
 jue 1
 jueding 1
-kai 1
+kai 2
+kaishishijian 1
 ke 5
 ku 1
 kuai 5
@@ -176,12 +178,13 @@ ru 2 1
 ruo 4
 san 1
 sange 1
-shi 16 8 3 3 2 2 1 1 1 1 1
+shang 1
+shi 16 8 3 3 2 2 2 1 1 1 1
 shibai 2
 shide 1
 shifang 6
 shihou 2
-shijian 9
+shijian 12
 shijiyongyu 1
 shixian 3
 shiyong 3
@@ -192,7 +195,7 @@ shuo 1
 shuxing 3
 shuzhi 1
 su 1
-suo 5 1
+suo 6 1
 te 2
 ti 1
 tiao 1
@@ -219,7 +222,7 @@ xianyou 1
 xiao 11 1 1
 xiaoduanfa 1
 xiaohui 2
-xiaoyu 3
+xiaoyu 4
 xie 3 1 1
 xiecaozuo 1
 xiecheng 8
@@ -229,7 +232,7 @@ xin 12 2
 xing 2 2
 xinhao 2
 xinhaoliang 3
-xitong 2
+xitong 3
 yao 2
 yaoqingchu 1
 ye 2
@@ -243,7 +246,7 @@ ying 1
 yinggai 1
 yong 7
 yongyu 5
-you 9 2 1
+you 10 2 1
 youyu 2
 yu 5 2
 yuan 2
@@ -252,7 +255,7 @@ yue 1
 yun 1
 yunxing 1
 zai 3
-zao 1
+zao 1 1
 ze 7
 zhan 1
 zhen 1
