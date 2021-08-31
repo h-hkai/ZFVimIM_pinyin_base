@@ -144,6 +144,8 @@ mian 1
 mo 2
 moshi 1
 n 1
+na 1
+naxieshuxing 1
 ne 1
 nei 47
 neibucaozuo 1
@@ -178,7 +180,7 @@ shiyong 3
 shou 2 1
 shoubu 1
 shu 18 1
-shuxing 2
+shuxing 3
 shuzhi 1
 su 1
 suo 5 1
@@ -207,7 +209,7 @@ xiao 11 1 1
 xiaoduanfa 1
 xiaohui 2
 xiaoyu 3
-xie 3 1
+xie 3 1 1
 xiecaozuo 1
 xiecheng 8
 xiechengdiaodu 1
