@@ -67,7 +67,7 @@ fa 1
 fan 1 1 1
 fang 1 1
 fangshi 2
-fanhui 2
+fanhui 3
 fanwei 1
 fen 15
 feng 1
@@ -98,7 +98,7 @@ hou 5 1
 houtui 1
 hua 1 1
 huang 1
-hui 3 1 1 1
+hui 4 1 1 1
 huifu 1
 huo 4 1
 ji 8 1 1 1
@@ -195,7 +195,7 @@ shixian 3
 shiyong 3
 shou 2 1
 shoubu 1
-shu 18 1
+shu 19 1
 shuo 1
 shuxing 3
 shuzhi 1
@@ -245,7 +245,7 @@ yi 5 3 2 1 1 1 1 1
 yibu 2
 yichu 1
 yici 1
-yige 15
+yige 16
 yiguo 1
 yijing 1
 ying 1
@@ -285,7 +285,7 @@ zhouqi 2
 zhu 5 1 1
 zhuang 1
 zhuyi 1
-zi 16
+zi 17
 zong 3
 zu 3 2
 zugou 2
