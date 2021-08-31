@@ -10,7 +10,7 @@ biancheng 1
 bianli 5
 biao 8 1
 biaoshi 4 1 1
-bing 1
+bing 1 1
 bu 5 2 2
 buchang 1
 buhui 1
@@ -30,7 +30,7 @@ charu 8
 cheng 4 2
 chenggong 1
 chi 22
-chong 3
+chong 4
 chu 2 1 1
 chuli 2
 ci 3 1
@@ -43,9 +43,9 @@ da 16
 dabendan 1
 dai 1
 dan 1
-dang 11
+dang 12
 dao 4
-de 101 2
+de 102 2
 deng 2
 di 1 1 1
 dian 1
@@ -73,7 +73,7 @@ fen 15
 feng 1
 fengzhuang 7
 fou 4
-fu 2 1
+fu 3 1
 fuzhi 4 1
 gai 5
 gaihanshu 1
@@ -138,10 +138,11 @@ kuai 5
 lai 2
 le 6
 lei 1
-li 1 1 1 1
+li 1 1 1 1 1
 liang 2 1
 lie 6
 limian 1
+liyong 1
 luo 1
 luoji 1
 ma 1
@@ -163,7 +164,7 @@ pei 15
 pian 1
 pianyi 1
 qi 2 1 1 1
-qian 16
+qian 17
 qidong 1
 qing 1
 qiqizhong 1
@@ -187,7 +188,7 @@ shibai 2
 shide 1
 shifang 6
 shihou 2
-shijian 14
+shijian 16
 shijiyongyu 1
 shixian 3
 shiyong 3
@@ -248,7 +249,7 @@ yiguo 1
 yijing 1
 ying 1
 yinggai 1
-yong 7
+yong 8
 yongyu 5
 you 10 2 1
 youyu 2
