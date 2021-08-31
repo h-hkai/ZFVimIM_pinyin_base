@@ -56,6 +56,7 @@ dou 1
 du 20 1
 duan 16 3
 ducaozuo 1
+dui 1
 e 1
 er 1
 fa 1
@@ -190,7 +191,7 @@ suo 5 1
 te 2
 ti 1
 ting 1
-tong 1 1
+tong 2 1
 tongshi 1
 tongyi 1
 tou 1
@@ -201,7 +202,7 @@ wei 10 2 1 1
 weizhi 9
 wen 5
 wu 1
-xi 3
+xi 4
 xia 4
 xian 3 1 1
 xiancheng 4
