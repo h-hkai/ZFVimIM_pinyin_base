@@ -60,7 +60,7 @@ dou 1
 du 20 1
 duan 16 3
 ducaozuo 1
-dui 1
+dui 2
 e 1
 er 4
 fa 1
@@ -268,7 +268,7 @@ zao 1 1
 ze 7
 zhan 1
 zhe 1
-zhen 1
+zhen 2
 zheng 2 1
 zhengquedezhi 1
 zhengshu 1
