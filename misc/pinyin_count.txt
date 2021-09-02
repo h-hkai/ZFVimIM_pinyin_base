@@ -112,7 +112,7 @@ jiedian 20
 jiema 3
 jieshouduan 1
 jiewei 1
-jiexi 6
+jiexi 7
 jiexiwei 2
 jiezhu 1
 jin 3 1
