@@ -82,7 +82,7 @@ ge 11
 gen 1
 geng 8
 genju 2
-gong 2 1
+gong 3 1
 gou 3 1
 guo 3
 ha 3
@@ -205,8 +205,9 @@ shuzhi 1
 su 1
 suo 6 1
 te 2
-ti 1
+ti 1 1
 tiao 1
+tigong 1
 ting 1
 tong 3 1
 tongshi 1
