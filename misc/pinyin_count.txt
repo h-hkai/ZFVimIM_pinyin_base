@@ -204,6 +204,7 @@ shuxing 3
 shuzhi 1
 su 1
 suo 6 1
+ta 1
 te 2
 ti 1 1
 tiao 1
