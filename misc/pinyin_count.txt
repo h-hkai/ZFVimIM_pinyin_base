@@ -60,7 +60,7 @@ dou 1
 du 20 1
 duan 16 3
 ducaozuo 1
-dui 2
+dui 3
 e 1
 er 4
 fa 1
@@ -89,9 +89,9 @@ ha 3
 hai 4
 haimei 4
 han 1
-hanshu 14
+hanshu 16
 hao 2 1
-he 4
+he 5
 heng 1
 hengwei 1
 hou 5 1
@@ -101,7 +101,7 @@ huang 1
 hui 4 1 1 1
 huifu 1
 huo 4 1
-ji 8 1 1 1 1
+ji 8 1 1 1 1 1
 jia 1
 jian 8 2 1 1 1 1
 jiancha 3
@@ -119,7 +119,7 @@ jin 3 1
 jincheng 1
 jing 1 1
 jinggao 1
-jinxing 1
+jinxing 2
 jinzao 1
 jiu 1 1
 jiude 1
@@ -135,7 +135,7 @@ kaishishijian 1
 ke 5
 ku 1
 kuai 11
-lai 2
+lai 3
 le 6
 lei 1
 li 1 1 1 1 1
@@ -165,7 +165,7 @@ pai 1
 pei 15
 pian 1
 pianyi 1
-qi 2 1 1 1
+qi 3 1 1 1
 qian 17
 qidong 1
 qing 2
@@ -187,15 +187,16 @@ sange 1
 shang 1
 she 1
 sheji 1
-shi 17 10 3 3 2 2 2 1 1 1 1
+shi 18 10 4 3 2 2 2 1 1 1 1
 shibai 2
 shide 1
 shifang 7
 shihou 2
 shijian 19
 shijiyongyu 1
-shixian 3
-shiyong 3
+shiqi 1
+shixian 5
+shiyong 3 1
 shou 2 1
 shoubu 1
 shu 21 1
@@ -242,7 +243,7 @@ xin 13 2
 xing 3 2
 xinhao 2
 xinhaoliang 3
-xitong 4
+xitong 6
 yang 1
 yao 2
 yaoqingchu 1
@@ -257,7 +258,7 @@ yijing 1
 yikuai 1
 ying 1
 yinggai 1
-yong 8
+yong 9
 yongyu 5
 you 10 2 1
 youyu 2
@@ -294,7 +295,8 @@ zhouqi 2
 zhu 5 1 1
 zhuang 1
 zhuyi 1
-zi 17
+zi 17 1
+ziji 1
 zong 3
 zu 4 2
 zugou 2
