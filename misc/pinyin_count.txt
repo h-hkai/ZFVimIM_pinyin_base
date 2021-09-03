@@ -16,7 +16,7 @@ buchang 1
 buhui 1
 bushi 1
 buzai 1
-can 2
+can 3
 cao 2
 caozuo 3 2
 ce 3
@@ -83,13 +83,13 @@ gen 1
 geng 8
 genju 2
 gong 3 1
-gou 4 1
+gou 5 1
 guo 3
 ha 3
 hai 4
 haimei 4
 han 1
-hanshu 10
+hanshu 11
 hao 2 1
 he 4
 heng 1
@@ -219,7 +219,7 @@ wang 1
 wei 10 2 1 1
 weizhi 9
 wen 5
-wu 1
+wu 2
 xi 4 1
 xia 6
 xian 3 2 1
@@ -267,7 +267,7 @@ yue 1
 yun 1
 yunxing 1
 zai 5 2
-zao 2 1
+zao 3 1
 ze 7
 zhan 1
 zhe 1
