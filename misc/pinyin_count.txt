@@ -198,7 +198,7 @@ shixian 3
 shiyong 3
 shou 2 1
 shoubu 1
-shu 19 1
+shu 20 1
 shuo 1
 shuxing 3
 shuzhi 1
@@ -294,7 +294,7 @@ zhuang 1
 zhuyi 1
 zi 17
 zong 3
-zu 3 2
+zu 4 2
 zugou 2
 zui 8
 zuizhong 1
