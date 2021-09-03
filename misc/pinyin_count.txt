@@ -37,7 +37,7 @@ ci 5 1
 cishi 2
 cishu 1
 cong 2
-cun 47
+cun 48
 d 1
 da 18
 dabendan 1
@@ -54,7 +54,7 @@ diaodu 3
 ding 4
 dingshi 2
 diyige 1
-dizhi 1
+dizhi 2
 dong 1
 dou 1
 du 20 1
@@ -134,7 +134,7 @@ kai 2
 kaishishijian 1
 ke 5
 ku 1
-kuai 8
+kuai 9
 lai 2
 le 6
 lei 1
@@ -158,7 +158,7 @@ n 1
 na 1
 naxieshuxing 1
 ne 1
-nei 50
+nei 51
 neibucaozuo 1
 neng 1
 pai 1
@@ -285,7 +285,7 @@ zhixiang 16
 zhixiangde 1
 zhixiangyige 1
 zhixiangziduan 1
-zhizhen 7
+zhizhen 8
 zhong 10 2
 zhongzhi 1
 zhou 1
