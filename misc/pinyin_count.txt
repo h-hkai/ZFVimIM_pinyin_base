@@ -103,7 +103,7 @@ huifu 1
 huo 4 1
 ji 8 1 1 1 1 1
 jia 1
-jian 8 2 1 1 1 1
+jian 9 2 1 1 1 1
 jiancha 3
 jiang 9
 jianting 2
@@ -187,12 +187,12 @@ sange 1
 shang 1
 she 1
 sheji 1
-shi 18 10 4 3 2 2 2 1 1 1 1
+shi 18 10 4 3 2 2 2 1 1 1 1 1
 shibai 2
 shide 1
 shifang 7
 shihou 2
-shijian 19
+shijian 19 1
 shijiyongyu 1
 shiqi 1
 shixian 5
