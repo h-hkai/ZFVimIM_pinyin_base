@@ -193,7 +193,7 @@ shibai 2
 shide 1
 shifang 7
 shihou 2
-shijian 19 3
+shijian 19 4
 shijiyongyu 1
 shiqi 1
 shixian 5
@@ -236,10 +236,11 @@ xiao 14 1 1
 xiaoduanfa 1
 xiaohui 2
 xiaoyu 4
-xie 3 1 1
+xie 3 2 1
 xiecaozuo 1
 xiecheng 9
 xiechengdiaodu 1
+xieshijian 1
 xieyi 3
 xin 13 2
 xing 3 2
