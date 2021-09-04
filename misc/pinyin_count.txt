@@ -57,10 +57,11 @@ diyige 1
 dizhi 3
 dong 1
 dou 1
-du 20 1
+du 20 2
 duan 16 3
 ducaozuo 1
 dui 3
+dushijian 1
 e 1
 er 4
 fa 1
@@ -192,7 +193,7 @@ shibai 2
 shide 1
 shifang 7
 shihou 2
-shijian 19 2
+shijian 19 3
 shijiyongyu 1
 shiqi 1
 shixian 5
