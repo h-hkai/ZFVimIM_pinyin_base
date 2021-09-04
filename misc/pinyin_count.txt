@@ -125,7 +125,7 @@ jiu 1 1
 jiude 1
 jiushi 5
 jiwei 2
-jiyu 2
+jiyu 3
 ju 8 1
 jubing 4
 jue 1
