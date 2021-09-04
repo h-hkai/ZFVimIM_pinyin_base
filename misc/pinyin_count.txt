@@ -192,7 +192,7 @@ shibai 2
 shide 1
 shifang 7
 shihou 2
-shijian 19 1
+shijian 19 2
 shijiyongyu 1
 shiqi 1
 shixian 5
@@ -221,7 +221,8 @@ wang 1
 wei 10 2 1 1
 weizhi 9
 wen 5
-wu 2
+wu 3
+wushijian 1
 xi 6 1
 xia 7
 xian 3 2 1
