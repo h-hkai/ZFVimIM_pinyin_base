@@ -85,13 +85,13 @@ gen 1
 geng 8
 genju 2
 gong 3 1
-gou 12 1
+gou 13 1
 guo 3
 ha 3
 hai 4
 haimei 4
 han 1
-hanshu 27
+hanshu 28
 hao 2 1
 he 5
 heng 1
@@ -282,7 +282,7 @@ yue 1
 yun 1
 yunxing 1
 zai 5 2
-zao 7 1
+zao 8 1
 ze 7
 zhan 1
 zhe 1
@@ -301,7 +301,7 @@ zhixiang 16
 zhixiangde 1
 zhixiangyige 1
 zhixiangziduan 1
-zhizhen 12
+zhizhen 13
 zhong 10 2
 zhongzhi 1
 zhou 1
