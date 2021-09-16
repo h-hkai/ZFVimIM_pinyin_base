@@ -29,7 +29,7 @@ chaochu 1
 charu 8
 cheng 4 2 1
 chenggong 2
-chi 23 1
+chi 23 1 1
 chong 5
 chu 3 1 1
 chuli 5
@@ -74,7 +74,7 @@ fanwei 1
 fen 15
 feng 1
 fengzhuang 8
-fou 6
+fou 7
 fu 3 1
 fuzhi 4 1
 gai 5
@@ -197,7 +197,7 @@ shang 1
 she 2
 sheji 1
 shezhi 2
-shi 20 10 4 4 2 2 2 1 1 1 1 1
+shi 21 10 4 4 2 2 2 1 1 1 1 1
 shibai 2
 shide 1
 shifang 7
@@ -291,7 +291,8 @@ zheng 2 1
 zhengquedezhi 1
 zhengshu 1
 zheyang 1
-zhi 4 3 3 2 1 1 1 1 1 1
+zhi 4 3 3 2 1 1 1 1 1 1 1
+zhichi 1
 zhidao 1
 zhijian 2
 zhineng 5
