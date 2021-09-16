@@ -97,6 +97,7 @@ heng 1
 hengwei 1
 hou 5 1
 houtui 1
+hu 1
 hua 1 1
 huang 1
 hui 5 4 1 1
@@ -156,7 +157,8 @@ meici 1
 mian 1
 ming 1
 mingcheng 1
-mo 2
+mo 3
+mohu 1
 moshi 1
 mou 1
 n 1
