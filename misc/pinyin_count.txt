@@ -231,7 +231,8 @@ xia 7
 xian 3 2 1
 xianbei 1
 xiancheng 4
-xiang 1
+xiang 1 1
+xiangying 1
 xianjiasuo 1
 xianyou 1
 xiao 14 1 1
@@ -261,7 +262,7 @@ yige 18
 yiguo 1
 yijing 1
 yikuai 1
-ying 1
+ying 2
 yinggai 1
 yong 9
 yongyu 5
