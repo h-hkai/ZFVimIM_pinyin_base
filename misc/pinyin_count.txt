@@ -196,7 +196,7 @@ sange 1
 shang 1
 she 2
 sheji 1
-shezhi 1
+shezhi 2
 shi 20 10 4 4 2 2 2 1 1 1 1 1
 shibai 2
 shide 1
