@@ -45,7 +45,7 @@ dai 2
 dan 1
 dang 12
 dao 4
-de 113 2
+de 114 2
 deng 3
 di 1 1 1
 dian 1
@@ -248,7 +248,7 @@ xiaohui 2
 xiaoyu 4
 xie 3 3 1
 xiecaozuo 1
-xiecheng 10
+xiecheng 11
 xiechengdiaodu 1
 xieshijian 1
 xieyi 3
