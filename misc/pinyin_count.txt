@@ -287,14 +287,14 @@ zheyang 1
 zhi 4 3 2 2 1 1 1 1 1 1
 zhidao 1
 zhijian 2
-zhineng 1
+zhineng 2
 zhishi 1
 zhiwei 1
 zhixiang 16
 zhixiangde 1
 zhixiangyige 1
 zhixiangziduan 1
-zhizhen 9
+zhizhen 10
 zhong 10 2
 zhongzhi 1
 zhou 1
