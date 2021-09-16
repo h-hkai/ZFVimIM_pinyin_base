@@ -68,7 +68,7 @@ fa 1
 fan 1 1 1
 fang 1 1
 fangshi 2
-fanhui 3
+fanhui 4
 fanwei 1
 fen 15
 feng 1
