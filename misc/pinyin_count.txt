@@ -45,7 +45,7 @@ dai 2
 dan 1
 dang 12
 dao 4
-de 114 2
+de 115 2
 deng 3
 di 1 1 1
 dian 1
@@ -54,7 +54,7 @@ diaodu 3
 ding 5
 dingshi 2
 diyige 1
-dizhi 6
+dizhi 7
 dong 1
 dou 1
 du 20 3
@@ -74,7 +74,7 @@ fanwei 1
 fen 15
 feng 1
 fengzhuang 9
-fou 8
+fou 9
 fu 3 1
 fuzhi 4 1
 gai 5
@@ -197,8 +197,8 @@ shang 1
 she 2
 sheji 1
 shezhi 2
-shi 22 10 4 4 2 2 2 1 1 1 1 1
-shibai 2
+shi 23 10 4 4 2 2 2 1 1 1 1 1
+shibai 3
 shide 1
 shifang 7
 shihou 2
