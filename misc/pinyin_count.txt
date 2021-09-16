@@ -29,7 +29,7 @@ chaochu 1
 charu 8
 cheng 4 2 1
 chenggong 2
-chi 23
+chi 23 1
 chong 5
 chu 3 1 1
 chuli 5
@@ -98,9 +98,10 @@ heng 1
 hengwei 1
 hou 5 1
 houtui 1
-hu 1
+hu 1 1
 hua 1 1
 huang 1
+huchiliang 1
 hui 5 4 1 1
 huidiao 2
 huifu 1
@@ -144,7 +145,7 @@ lai 3
 le 6
 lei 2
 li 1 1 1 1 1
-liang 2 1
+liang 3 1
 lie 6
 limian 1
 liyong 1
