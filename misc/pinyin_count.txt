@@ -27,7 +27,7 @@ chang 16
 chao 3
 chaochu 1
 charu 8
-cheng 4 2
+cheng 4 2 1
 chenggong 1
 chi 23
 chong 5
@@ -84,13 +84,13 @@ gen 1
 geng 8
 genju 2
 gong 3 1
-gou 8 1
+gou 9 1
 guo 3
 ha 3
 hai 4
 haimei 4
 han 1
-hanshu 17
+hanshu 18
 hao 2 1
 he 5
 heng 1
@@ -152,6 +152,8 @@ manzu 2
 mei 5 1
 meici 1
 mian 1
+ming 1
+mingcheng 1
 mo 2
 moshi 1
 mou 1
@@ -224,7 +226,7 @@ weizhi 9
 wen 5
 wu 3
 wushijian 1
-xi 6 1
+xi 7 1
 xia 7
 xian 3 2 1
 xianbei 1
