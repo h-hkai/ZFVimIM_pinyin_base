@@ -33,7 +33,7 @@ chi 23
 chong 5
 chu 3 1 1
 chuli 5
-ci 5 1
+ci 6 1
 cishi 2
 cishu 1
 cong 2
@@ -158,7 +158,7 @@ mian 1
 ming 1
 mingcheng 1
 mo 3
-mohu 6
+mohu 7
 moshi 1
 mou 1
 n 1
@@ -172,7 +172,7 @@ pai 1
 pei 15
 pian 1
 pianyi 1
-qi 3 1 1 1
+qi 4 1 1 1
 qian 17
 qidong 1
 qing 2
