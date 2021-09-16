@@ -57,11 +57,12 @@ diyige 1
 dizhi 3
 dong 1
 dou 1
-du 20 2
+du 20 3
 duan 16 3
 ducaozuo 1
 dui 5
 dushijian 1
+duxie 1
 e 1
 er 4
 fa 1
@@ -244,7 +245,7 @@ xiao 14 1 1
 xiaoduanfa 1
 xiaohui 2
 xiaoyu 4
-xie 3 2 1
+xie 3 3 1
 xiecaozuo 1
 xiecheng 9
 xiechengdiaodu 1
