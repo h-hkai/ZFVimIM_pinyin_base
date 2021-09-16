@@ -26,7 +26,7 @@ chajianceshi 1
 chang 16
 chao 4
 chaochu 1
-chaoshi 1
+chaoshi 2
 charu 8
 cheng 4 2 1
 chenggong 4
@@ -62,7 +62,7 @@ du 20 4
 duan 16 3
 ducaozuo 1
 dui 5
-duqu 1
+duqu 2
 dushijian 1
 duxie 1
 e 1
@@ -71,7 +71,7 @@ fa 1
 fan 1 1 1
 fang 1 1
 fangshi 2
-fanhui 10
+fanhui 11
 fanwei 1
 fen 15
 feng 1
@@ -160,7 +160,7 @@ mei 5 1
 meici 1
 mian 1
 ming 1
-mingcheng 1
+mingcheng 2
 mo 3
 mohu 8
 moshi 1
@@ -198,13 +198,13 @@ sange 1
 shang 1
 she 2
 sheji 1
-shezhi 2
+shezhi 3
 shi 23 11 4 4 2 2 2 1 1 1 1 1
 shibai 3
 shide 1
 shifang 7
 shihou 2
-shijian 20 4
+shijian 21 4
 shijiyongyu 1
 shiqi 1
 shixian 5
