@@ -253,7 +253,7 @@ xiecaozuo 1
 xiecheng 11
 xiechengdiaodu 1
 xieshijian 1
-xieyi 4
+xieyi 5
 xin 13 2
 xing 4 2
 xinhao 2
@@ -315,7 +315,7 @@ zhuyi 1
 zi 18 1
 ziji 1
 zong 3
-zu 9 2 1
+zu 10 2 2
 zugou 2
 zui 8
 zuizhong 1
