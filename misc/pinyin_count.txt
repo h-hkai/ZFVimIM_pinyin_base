@@ -106,7 +106,7 @@ hui 5 4 1 1
 huidiao 2
 huifu 1
 huihui 1
-huo 7 1
+huo 8 1
 ji 8 1 1 1 1 1
 jia 1
 jian 9 2 1 1 1 1
@@ -180,7 +180,7 @@ qidong 1
 qing 2
 qiqizhong 1
 qishi 3
-qu 10
+qu 11
 qude 1
 que 1
 qufan 1
