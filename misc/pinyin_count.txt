@@ -46,7 +46,7 @@ dai 2
 dan 1
 dang 12
 dao 4
-de 117 2
+de 118 2
 deng 3
 di 1 1 1
 dian 1
