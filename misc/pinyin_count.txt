@@ -114,7 +114,7 @@ jia 1
 jian 9 2 1 1 1 1
 jiancha 3
 jiang 9
-jianting 2
+jianting 3
 jie 3 3 1 1
 jiedian 20
 jiema 3
