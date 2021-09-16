@@ -176,7 +176,7 @@ pian 1
 pianyi 1
 qi 4 1 1 1
 qian 17
-qidong 1
+qidong 2
 qing 2
 qiqizhong 1
 qishi 3
