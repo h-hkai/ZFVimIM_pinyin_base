@@ -90,7 +90,7 @@ ha 3
 hai 4
 haimei 4
 han 1
-hanshu 25
+hanshu 26
 hao 2 1
 he 5
 heng 1
@@ -101,7 +101,7 @@ hu 1
 hua 1 1
 huang 1
 hui 5 4 1 1
-huidiao 1
+huidiao 2
 huifu 1
 huihui 1
 huo 4 1
