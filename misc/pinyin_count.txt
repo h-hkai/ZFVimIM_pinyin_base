@@ -90,7 +90,7 @@ ha 3
 hai 4
 haimei 4
 han 1
-hanshu 18
+hanshu 19
 hao 2 1
 he 5
 heng 1
@@ -190,7 +190,7 @@ sange 1
 shang 1
 she 1
 sheji 1
-shi 19 10 4 3 2 2 2 1 1 1 1 1
+shi 19 10 4 4 2 2 2 1 1 1 1 1
 shibai 2
 shide 1
 shifang 7
