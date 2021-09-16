@@ -28,7 +28,7 @@ chao 3
 chaochu 1
 charu 8
 cheng 4 2 1
-chenggong 3
+chenggong 4
 chi 23 1 1
 chong 5
 chu 3 1 1
