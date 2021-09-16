@@ -51,7 +51,7 @@ di 1 1 1
 dian 1
 diao 3
 diaodu 3
-ding 4
+ding 5
 dingshi 2
 diyige 1
 dizhi 3
@@ -90,7 +90,7 @@ ha 3
 hai 4
 haimei 4
 han 1
-hanshu 19
+hanshu 20
 hao 2 1
 he 5
 heng 1
@@ -254,7 +254,7 @@ yang 1
 yao 2
 yaoqingchu 1
 ye 3
-yi 5 3 3 1 1 1 1 1
+yi 6 3 3 1 1 1 1 1 1
 yibu 2
 yichu 1
 yici 1
