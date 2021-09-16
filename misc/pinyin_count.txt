@@ -33,7 +33,7 @@ chenggong 4
 chi 23 1 1
 chong 5
 chu 3 1 1
-chuli 6
+chuli 7
 ci 6 1
 cishi 2
 cishu 1
@@ -46,7 +46,7 @@ dai 2
 dan 1
 dang 12
 dao 4
-de 116 2
+de 117 2
 deng 3
 di 1 1 1
 dian 1
@@ -145,7 +145,7 @@ ku 1
 kuai 11
 lai 3
 le 6
-lei 3
+lei 4
 li 1 1 1 1 1
 liang 3 1
 lie 6
