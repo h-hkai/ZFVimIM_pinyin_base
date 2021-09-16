@@ -76,7 +76,7 @@ fanwei 1
 fen 15
 feng 1
 fengzhuang 9
-fou 9
+fou 10
 fu 3 1
 fuzhi 4 1
 gai 5
@@ -160,7 +160,7 @@ mei 5 1
 meici 1
 mian 1
 ming 1
-mingcheng 2
+mingcheng 3
 mo 3
 mohu 8
 moshi 1
@@ -199,7 +199,7 @@ shang 1
 she 2
 sheji 1
 shezhi 4
-shi 23 11 4 4 2 2 2 1 1 1 1 1
+shi 24 11 4 4 2 2 2 1 1 1 1 1
 shibai 3
 shide 1
 shifang 7
