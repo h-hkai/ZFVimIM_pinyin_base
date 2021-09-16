@@ -192,8 +192,9 @@ ruo 4
 san 1
 sange 1
 shang 1
-she 1
+she 2
 sheji 1
+shezhi 1
 shi 19 10 4 4 2 2 2 1 1 1 1 1
 shibai 2
 shide 1
@@ -288,7 +289,7 @@ zheng 2 1
 zhengquedezhi 1
 zhengshu 1
 zheyang 1
-zhi 4 3 2 2 1 1 1 1 1 1
+zhi 4 3 3 2 1 1 1 1 1 1
 zhidao 1
 zhijian 2
 zhineng 3
