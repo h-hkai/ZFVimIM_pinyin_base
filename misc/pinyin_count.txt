@@ -55,7 +55,7 @@ diaodu 3
 ding 5
 dingshi 2
 diyige 1
-dizhi 7
+dizhi 8
 dong 1
 dou 1
 du 20 4
@@ -155,7 +155,7 @@ luo 1
 luoji 1
 ma 1
 man 1
-manzu 2
+manzu 3
 mei 5 1
 meici 1
 mian 1
