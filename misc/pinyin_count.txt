@@ -143,7 +143,7 @@ ku 1
 kuai 11
 lai 3
 le 6
-lei 2
+lei 3
 li 1 1 1 1 1
 liang 3 1
 lie 6
