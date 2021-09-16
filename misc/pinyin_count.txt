@@ -87,13 +87,13 @@ gen 1
 geng 8
 genju 2
 gong 3 1
-gou 16 1
+gou 17 1
 guo 3
 ha 3
 hai 4
 haimei 4
 han 1
-hanshu 31
+hanshu 32
 hao 2 1
 he 5
 heng 1
@@ -235,7 +235,7 @@ weizhi 9
 wen 5
 wu 3
 wushijian 1
-xi 8 1
+xi 9 1
 xia 7
 xian 3 2 1
 xianbei 1
@@ -253,7 +253,7 @@ xiecaozuo 1
 xiecheng 11
 xiechengdiaodu 1
 xieshijian 1
-xieyi 5
+xieyi 6
 xin 13 2
 xing 4 2
 xinhao 2
