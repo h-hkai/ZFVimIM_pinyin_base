@@ -49,7 +49,7 @@ de 109 2
 deng 3
 di 1 1 1
 dian 1
-diao 6
+diao 7
 diaodu 3
 ding 5
 dingshi 2
@@ -90,7 +90,7 @@ ha 3
 hai 4
 haimei 4
 han 1
-hanshu 24
+hanshu 25
 hao 2 1
 he 5
 heng 1
@@ -99,7 +99,8 @@ hou 5 1
 houtui 1
 hua 1 1
 huang 1
-hui 5 3 1 1
+hui 5 4 1 1
+huidiao 1
 huifu 1
 huihui 1
 huo 4 1
