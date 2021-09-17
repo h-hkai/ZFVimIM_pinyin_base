@@ -134,7 +134,7 @@ jiude 1
 jiushi 5
 jiwei 2
 jiyu 3
-ju 8 1
+ju 8 1 1
 jubing 4
 jue 1
 jueding 1
@@ -183,6 +183,8 @@ qing 2
 qiqizhong 1
 qishi 3
 qu 12
+quan 1
+quanju 1
 qude 1
 que 1
 qufan 1
