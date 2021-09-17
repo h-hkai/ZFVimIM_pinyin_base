@@ -82,7 +82,7 @@ fuzhi 4 1
 gai 5
 gaihanshu 1
 gao 3 1
-ge 11
+ge 12
 gen 1
 geng 8
 genju 2
@@ -253,7 +253,7 @@ xiaohui 2
 xiaoyu 4
 xie 3 3 1
 xiecaozuo 1
-xiecheng 14
+xiecheng 15
 xiechengdiaodu 1
 xieshijian 1
 xieyi 6
@@ -290,7 +290,7 @@ zai 6 2
 zao 10 1
 ze 7
 zhan 1
-zhe 1
+zhe 2
 zhen 2
 zheng 2 2
 zhengquedezhi 1
@@ -313,7 +313,7 @@ zhong 10 2
 zhongzhi 1
 zhou 1
 zhouqi 2
-zhu 5 1 1
+zhu 6 1 1
 zhuang 1
 zhuyi 1
 zi 18 1
