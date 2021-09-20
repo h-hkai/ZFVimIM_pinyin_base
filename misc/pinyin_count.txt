@@ -11,9 +11,10 @@ bianli 5
 biao 8 1
 biaoshi 4 1 1
 bing 1 1
-bu 5 2 2
+bu 5 3 2
 buchang 1
 buhui 1
+bujian 1
 bushi 1
 buzai 1
 can 3
@@ -111,7 +112,7 @@ huihui 1
 huo 8 1
 ji 8 2 1 1 1 1
 jia 1
-jian 9 2 1 1 1 1
+jian 10 2 1 1 1 1
 jiancha 3
 jiang 9
 jianting 3
