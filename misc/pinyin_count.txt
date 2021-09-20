@@ -5,7 +5,7 @@ bei 7
 ben 2 1
 benjiedian 1
 bi 2
-bian 1 1 1
+bian 2 1 1
 biancheng 1
 bianli 5
 biao 8 1
@@ -81,7 +81,8 @@ fengzhuang 12
 fou 11
 fu 3 1
 fuzhi 4 1
-gai 5
+gai 5 1
+gaibian 1
 gaihanshu 1
 gao 3 1
 ge 12
@@ -235,7 +236,7 @@ tou 1
 touwei 1
 tui 1
 wang 1
-wei 10 2 1 1
+wei 11 2 1 1
 weizhi 9
 wen 5
 wu 3
@@ -260,7 +261,8 @@ xiechengdiaodu 1
 xieshijian 1
 xieyi 6
 xin 13 2
-xing 4 2
+xing 4 3
+xingwei 1
 xinhao 2
 xinhaoliang 3
 xitong 6
