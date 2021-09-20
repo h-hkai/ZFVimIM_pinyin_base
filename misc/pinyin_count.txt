@@ -146,7 +146,7 @@ ku 1
 kuai 11
 lai 3
 le 6
-lei 5
+lei 6
 li 1 1 1 1 1
 liang 3 1
 lie 6
@@ -202,7 +202,7 @@ shang 1
 she 2
 sheji 1
 shezhi 4
-shi 25 11 4 4 2 2 2 1 1 1 1 1
+shi 26 11 4 4 2 2 2 1 1 1 1 1
 shibai 3
 shide 1
 shifang 7
