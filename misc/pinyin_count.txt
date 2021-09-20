@@ -215,7 +215,7 @@ shixian 5
 shiyong 3 1
 shou 2 1
 shoubu 1
-shu 27 1
+shu 27 2
 shuo 1
 shuxing 3
 shuzhi 1
