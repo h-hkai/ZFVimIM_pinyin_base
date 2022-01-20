@@ -47,7 +47,7 @@ dai 2
 dan 1 1
 dang 15
 dao 4
-de 124 2
+de 125 2
 deng 3
 di 1 1 1
 dian 1
@@ -112,7 +112,7 @@ hui 5 4 1 1
 huidiao 2
 huifu 1
 huihui 1
-huo 8 1
+huo 9 1
 ji 8 2 1 1 1 1
 jia 1
 jian 10 2 1 1 1 1
