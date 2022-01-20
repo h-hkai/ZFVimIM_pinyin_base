@@ -47,7 +47,7 @@ dai 2
 dan 1 1
 dang 15
 dao 4
-de 123 2
+de 124 2
 deng 3
 di 1 1 1
 dian 1
@@ -89,7 +89,8 @@ ge 12
 gen 1
 geng 8
 genju 2
-gong 3 1
+gong 3 1 1
+gongzuode 1
 gou 17 1
 guo 3
 ha 3
@@ -127,7 +128,7 @@ jiexi 7
 jiexiwei 2
 jiezhu 1
 jin 3 1
-jincheng 1
+jincheng 2
 jing 1 1
 jinggao 1
 jinxing 2
@@ -143,14 +144,14 @@ jue 1
 jueding 1
 kai 2
 kaishishijian 2
-ke 6
+ke 7
 ku 1
 kuai 11
 lai 3
 le 6
 lei 7
 li 1 1 1 1 1
-liang 3 1
+liang 4 1
 lie 6
 limian 1
 liyong 1
@@ -216,12 +217,12 @@ shixian 5
 shiyong 3 1
 shou 2 1
 shoubu 1
-shu 27 2
+shu 28 2
 shuo 1
 shuxing 3
 shuzhi 1
 su 1
-suo 7 1
+suo 8 1
 ta 1 1
 te 2
 ti 1 1
@@ -270,7 +271,7 @@ yang 1
 yao 2
 yaoqingchu 1
 ye 3
-yi 8 3 3 1 1 1 1 1 1
+yi 9 3 3 1 1 1 1 1 1
 yibu 2
 yichu 1
 yici 1
@@ -282,7 +283,7 @@ ying 4
 yinggai 1
 yong 10
 yongyu 7
-you 10 2 1
+you 11 2 1
 youyu 2
 yu 5 2
 yuan 2
@@ -327,4 +328,4 @@ zu 10 2 2
 zugou 2
 zui 8
 zuizhong 1
-zuo 1 1
+zuo 2 1
