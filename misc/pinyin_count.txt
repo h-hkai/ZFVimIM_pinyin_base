@@ -242,7 +242,7 @@ weizhi 9
 wen 5
 wu 3
 wushijian 1
-xi 9 1
+xi 9 1 1
 xia 8
 xian 3 2 1
 xianbei 1
@@ -251,9 +251,10 @@ xiang 1 1 1
 xiangying 1
 xianjiasuo 1
 xianyou 1
-xiao 15 1 1
+xiao 15 2 1
 xiaoduanfa 1
 xiaohui 2
+xiaoxi 1
 xiaoyu 4
 xie 3 3 1
 xiecaozuo 1
