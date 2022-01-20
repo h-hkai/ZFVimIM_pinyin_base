@@ -41,13 +41,13 @@ cishu 1
 cong 2
 cun 50
 d 1
-da 19
+da 20
 dabendan 1
 dai 2
 dan 1 1
 dang 18
 dao 4
-de 127 2
+de 129 2
 deng 3
 di 1 1 1
 dian 1
@@ -85,7 +85,7 @@ gai 5 1
 gaibian 1
 gaihanshu 1
 gao 3 1
-ge 12
+ge 13
 gen 1
 geng 8
 genju 2
@@ -113,7 +113,7 @@ huidiao 2
 huifu 1
 huihui 1
 huo 9 1
-ji 8 2 1 1 1 1
+ji 8 2 1 1 1 1 1
 jia 1
 jian 10 2 1 1 1 1
 jiancha 3
@@ -251,7 +251,7 @@ xiang 1 1 1
 xiangying 1
 xianjiasuo 1
 xianyou 1
-xiao 14 1 1
+xiao 15 1 1
 xiaoduanfa 1
 xiaohui 2
 xiaoyu 4
@@ -271,12 +271,13 @@ yang 1
 yao 2
 yaoqingchu 1
 ye 3
-yi 9 3 3 1 1 1 1 1 1
+yi 10 3 3 1 1 1 1 1 1
 yibu 2
 yichu 1
 yici 1
 yige 19
 yiguo 1
+yiji 1
 yijing 1
 yikuai 1
 ying 4
@@ -297,7 +298,7 @@ ze 7
 zhan 1
 zhe 2
 zhen 2
-zheng 2 2
+zheng 3 2
 zhengquedezhi 1
 zhengshu 1
 zhengzai 1
