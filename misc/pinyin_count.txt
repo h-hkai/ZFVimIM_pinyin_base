@@ -47,7 +47,7 @@ dai 2
 dan 1 1
 dang 18
 dao 4
-de 129 2
+de 130 2
 deng 3
 di 1 1 1
 dian 1
@@ -256,7 +256,7 @@ xiaoduanfa 1
 xiaohui 2
 xiaoxi 1
 xiaoyu 4
-xie 3 3 1
+xie 3 3 2
 xiecaozuo 1
 xiecheng 16
 xiechengdiaodu 1
@@ -272,7 +272,7 @@ yang 1
 yao 2
 yaoqingchu 1
 ye 3
-yi 10 3 3 1 1 1 1 1 1
+yi 10 4 3 1 1 1 1 1 1
 yibu 2
 yichu 1
 yici 1
@@ -283,6 +283,7 @@ yijing 1
 yikuai 1
 ying 4
 yinggai 1
+yixie 1
 yong 10
 yongyu 7
 you 11 2 1
